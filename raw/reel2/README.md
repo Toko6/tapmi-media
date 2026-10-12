@@ -26,3 +26,10 @@
 * ~8 s, mobile view of app.tapmi.pl running locally with demo data
 * Dashboard visible with the average and weekly trend, then a new ★★★★★ rating with a short comment appears (live or after refresh), hold 2 s.
 * Use a good-sounding demo state, e.g. average ~4.6 and a positive trend.
+
+## Delivered
+
+* `b-guest.mp4` (5.7 s) and `c-dashboard.mp4` (8.3 s): screen recordings, approved by marketing. 1080×1920, H.264, 30 fps, no audio. Fake venue "Bistro Pod Lipą", fake staff and comments.
+* Shot B is in light mode (the guest page follows the venue's own colours; it has no dark mode) and uses a single tap on the 5th star (in the app the first tap saves the rating). The button reads „Oceń nas w Google”.
+* Notes for the edit (marketing): in C, add a text overlay "Nowa ocena: ★★★★★" at about 4,4–5,5 s near the "Ten tydzień" line (y ≈ 1000); the hold from 0,3 to 3,6 s can be trimmed to ~2 s. In B, keep captions around y 1300–1550 (empty area below the content).
+* Shot A (`a-tap.mp4`) still to be filmed.

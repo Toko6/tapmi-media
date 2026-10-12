@@ -32,4 +32,4 @@
 * `b-guest.mp4` (5.7 s) and `c-dashboard.mp4` (8.3 s): screen recordings, approved by marketing. 1080×1920, H.264, 30 fps, no audio. Fake venue "Bistro Pod Lipą", fake staff and comments.
 * Shot B is in light mode (the guest page follows the venue's own colours; it has no dark mode) and uses a single tap on the 5th star (in the app the first tap saves the rating). The button reads „Oceń nas w Google”.
 * Notes for the edit (marketing): in C, add a text overlay "Nowa ocena: ★★★★★" at about 4,4–5,5 s near the "Ten tydzień" line (y ≈ 1000); the hold from 0,3 to 3,6 s can be trimmed to ~2 s. In B, keep captions around y 1300–1550 (empty area below the content).
-* Shot A (`a-tap.mp4`) still to be filmed.
+* `a-tap.mp4` (8.8 s): filmed by the founder on an iPhone (IMG_0014.mov), used as is at his decision. Cut to the tap (0–2.2 s) and the rating page from opening to "All set" (2.2–8.8 s); HDR converted to SDR, sound removed. Visible in the clip, for the editor to crop or blur if needed: the generic "Review us on Google" card, the venue name "Ugruzina Boguslawskiego", English page text, a 2★ tap.

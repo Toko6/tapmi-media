@@ -25,3 +25,18 @@
 ### What works / doesn't (so far)
 - Reels reach non-followers (Reel #1 187 reach); carousel #2 reached 12. Until followers grow, Reels are the growth engine → prefer Reels for open slots.
 - Static-text opening (Reel #1) → low 3-s rate, stall after ~24 h.
+
+## 2026-10-15 (Thu, ~17:55)
+- Reel #1: 240 views / 187 reach, avg watch 4.88 s, 3-s rate 21.4%. Dead (+8 views/day).
+- Reel #2 (14 Oct): only 8 views / 5 reach / 1 like in Metricool after ~32 h, BUT 3-s rate 40% and avg watch 9.3 s (≈ full 9.5 s Reel). Account views on 14 Oct only 25 / reach 9, so either Metricool's Reel sync is stale (row timestamp is publish time; values may be from the first sync) or Instagram barely tested it. Retention signal is good on a tiny sample: motion-first opening + screen recordings hold viewers. Re-check tomorrow; if reach is still <20, distribution (not the hook) is the problem → trending audio matters, Toko's in-app music on Reel #2 may not have been added.
+- Carousel #2: 37 views / 12 reach / 2 likes. Flat.
+- Question post (today 10:00, published OK, https://www.instagram.com/p/DegfBNqiBdA/): 1 view so far (sync lag).
+- Followers 6 (no change). Stories: still nothing in Metricool insights for 8–15 Oct.
+- Queue: Fri 16 10:00 tips carousel (approved, best slot 6734, ~24 h after today's post) → nothing to move. Sat 17 Reel #3 and Mon 19 Reel #5 still DRAFTS without Toko's yes; nothing approved after Fri 16. Did not add more drafts (two already cover Sat–Mon; piling up unapproved content doesn't help). Sent Toko a short reminder for the yes.
+- Story images: Fri = week42 s4 (exists). None for drafts until approved.
+- Best-time 16–22 Oct unchanged: 10:00 best every day (Fri 6734, Wed 6506, Thu 6275, Mon 5528, Tue 4942, Sat 3409, Sun 2582).
+
+### What works / doesn't (so far)
+- Reels reach non-followers (Reel #1 187 reach); carousels stay near follower count (~12). Prefer Reels for open slots.
+- Static-text opening (Reel #1) → 21% 3-s rate. Motion-first (Reel #2) → 40% on a tiny sample, near-full watch time. Keep motion-first.
+- Open question: why Reel #2 reach is so low — confirm tomorrow before changing anything.

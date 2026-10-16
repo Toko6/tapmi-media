@@ -40,3 +40,16 @@
 - Reels reach non-followers (Reel #1 187 reach); carousels stay near follower count (~12). Prefer Reels for open slots.
 - Static-text opening (Reel #1) → 21% 3-s rate. Motion-first (Reel #2) → 40% on a tiny sample, near-full watch time. Keep motion-first.
 - Open question: why Reel #2 reach is so low — confirm tomorrow before changing anything.
+
+## 2026-10-16 (Fri, ~17:55)
+- Reel #1: 240 / 187, 21.4% 3-s rate — unchanged, dead.
+- Reel #2: still 8 views / 5 reach / 2 likes, 40% 3-s, avg watch 7.7 s. Metricool values identical to yesterday → either sync is stuck or Instagram never pushed it. Account views 14 Oct 25, 15 Oct 10 → the whole page is near-zero distribution since Reel #1.
+- Question post (15 Oct): 10 views / 5 reach / 2 likes. Tips carousel (today 10:00, published OK, https://www.instagram.com/p/DejD8eHivam/): 4 views / 1 like so far (sync lag).
+- Followers 6 (no change, 0 gained / 0 lost). Stories: none in Metricool insights (manual Stories not syncing, or none posted).
+- Queue: nothing approved after today. Sat 17 Reel #3 and Mon 19 Reel #5 still DRAFTS. Nothing to move. Best time 17–23 Oct unchanged (10:00 every day).
+- No new drafts made (two unapproved already cover Sat–Mon; Content Studio makes next week's on Mon 19). Sent Toko a short nudge: Sat Reel #3 only goes out if he says yes before 10:00 tomorrow.
+- Story images: none needed (drafts not yet approved; today's = week42 s4).
+
+### What works / doesn't (so far)
+- Reels reach non-followers only when Instagram tests them; Reel #1 got 187, Reel #2 ~5. Carousels/single posts stay at follower level (5–12 reach).
+- Motion-first opening holds viewers (Reel #2 40% vs 21%), but distribution collapsed. Likely causes: no trending audio, very new account with 6 followers, no early engagement. Next: Toko adds trending audio on Reel #3 right after it goes live; seed first-hour engagement (founder account like/share, Story reshare).

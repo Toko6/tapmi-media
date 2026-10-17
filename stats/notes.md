@@ -53,3 +53,17 @@
 ### What works / doesn't (so far)
 - Reels reach non-followers only when Instagram tests them; Reel #1 got 187, Reel #2 ~5. Carousels/single posts stay at follower level (5–12 reach).
 - Motion-first opening holds viewers (Reel #2 40% vs 21%), but distribution collapsed. Likely causes: no trending audio, very new account with 6 followers, no early engagement. Next: Toko adds trending audio on Reel #3 right after it goes live; seed first-hour engagement (founder account like/share, Story reshare).
+
+## 2026-10-17 (Sat, ~17:55)
+- Reel #1: 244 / 188, 3-s 22.1%, avg 4.95 s. Dead.
+- Reel #2: 11 views / 7 reach / 2 likes, 3-s 33.3%, avg 9.6 s (≈ full). Moved +3 views in 2 days → never got a test push.
+- Question post: 11 / 6 / 2 likes. Tips carousel (16 Oct): 15 views / 6 reach / 1 like, 0 saves/shares (save-bait didn't land at follower count 6).
+- Reel #3 (today 10:00, published OK, https://www.instagram.com/reel/Delop17Ebo5/) not in Metricool insights yet (sync lag).
+- Account views: 13 Oct 275, 14 Oct 25, 15 Oct 10, 16 Oct 25. Followers 6, no change for 4 days. Stories: none in Metricool insights.
+- Queue: only Mon 19 10:00 Reel #5 (approved, ~48 h after Reel #3, best Mon slot 5528). Nothing to move — Sun 18 is the weakest day (10:00 = 2582) and pulling Reel #5 to Sun would leave Mon–Tue empty.
+- Approved queue ends Mon 19 → made DRAFT Tue 20 10:00: carousel "3 błędy, przez które goście nie zostawiają opinii" (6 slides, 2026-10-20-3bledy-carousel/, caption drafts/2026-10-20-3bledy-carousel.md). Pulled from the planned Sat 24 slot (no footage needed). Asked Toko for a yes. Content Studio (Mon 19) plans Wed onward.
+- Story images: Reel #3 and #5 already done (week43). None new.
+
+### What works / doesn't (so far)
+- Reels with motion-first opening hold viewers (Reel #2 33–40% 3-s, full watch) but distribution since 14 Oct is near zero for everything (5–12 reach/post = follower count). Hook isn't the bottleneck any more; reach is.
+- Levers left without spending: trending audio added in-app right after a Reel goes live, early engagement (founder likes/shares/Story reshare in the first hour), outreach comments on Wrocław venues to bring profile visits. Watch Reel #3 tomorrow: if reach > 50 it got tested.

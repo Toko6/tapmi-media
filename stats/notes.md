@@ -67,3 +67,16 @@
 ### What works / doesn't (so far)
 - Reels with motion-first opening hold viewers (Reel #2 33–40% 3-s, full watch) but distribution since 14 Oct is near zero for everything (5–12 reach/post = follower count). Hook isn't the bottleneck any more; reach is.
 - Levers left without spending: trending audio added in-app right after a Reel goes live, early engagement (founder likes/shares/Story reshare in the first hour), outreach comments on Wrocław venues to bring profile visits. Watch Reel #3 tomorrow: if reach > 50 it got tested.
+
+## 2026-10-18 (Sun, ~17:55)
+- Reel #3 (17 Oct, team results): 7 views / 4 reach / 1 like after ~32 h, 3-s rate 25%, avg watch 8.65 s (≈ full 9 s). No test push — same pattern as Reel #2.
+- All older posts unchanged vs yesterday (Reel #1 244/188, carousel #2 39/12, Reel #2 11/7, question 11/6, tips 15/6). 0 saves, 0 shares, 0 comments on everything since 13 Oct.
+- Account: views 17 Oct 7 / reach 4. Followers 6, 0 gained / 0 lost (5th flat day). Stories: none in Metricool insights (manual Stories don't sync, or weren't posted).
+- Queue: Mon 19 10:00 Reel #5 (approved). Tue 20 10:00 "3 błędy" carousel still DRAFT (no yes yet). Best time 19–25 Oct unchanged (10:00 best every day; Sun 10:00 = 2582, Sun 18:00 = 2253 vs Mon 10:00 = 5528).
+- Decision: did NOT pull Reel #5 into Sunday evening. Page is stalled, but Sun evening scores less than half of Mon 10:00, Toko's Story reshare + music are planned for Mon 10:15, and moving it would leave Mon empty with Tue still unapproved. Net gain ~zero.
+- No new drafts: Tue 20 draft already exists; Content Studio runs Mon 8:45 and plans Wed onward — a second set tonight would duplicate it. Nudged Toko for the Tue yes + music on Reel #5.
+
+### What works / doesn't (so far)
+- Three Reels in a row since Reel #1 (Reel #2, #3) get ~5 reach: Instagram isn't testing them with non-followers. Retention is fine (full watch on tiny samples), so the content isn't the blocker; distribution is.
+- Likely causes: no trending audio at publish (Metricool can't add it without a FB Page; in-app add after publish may come too late / may not have happened), 6 followers, zero early engagement (no likes/shares in the first hour), no outbound activity bringing profile visits.
+- Next levers (no spend): music added in-app within minutes of 10:00 Mon; founder account like + share to Story in the first 30 min; daily outreach comments on Wrocław venues (artifact routine). Consider testing TRIAL_REEL type for the next new Reel (shown to non-followers first) — needs Toko's yes as part of the content approval. If Reel #5 also stays <20 reach by Tue evening, raise FB Page linking (enables audio via Metricool) as the top fix in the Content Studio report.

@@ -80,3 +80,14 @@
 - Three Reels in a row since Reel #1 (Reel #2, #3) get ~5 reach: Instagram isn't testing them with non-followers. Retention is fine (full watch on tiny samples), so the content isn't the blocker; distribution is.
 - Likely causes: no trending audio at publish (Metricool can't add it without a FB Page; in-app add after publish may come too late / may not have happened), 6 followers, zero early engagement (no likes/shares in the first hour), no outbound activity bringing profile visits.
 - Next levers (no spend): music added in-app within minutes of 10:00 Mon; founder account like + share to Story in the first 30 min; daily outreach comments on Wrocław venues (artifact routine). Consider testing TRIAL_REEL type for the next new Reel (shown to non-followers first) — needs Toko's yes as part of the content approval. If Reel #5 also stays <20 reach by Tue evening, raise FB Page linking (enables audio via Metricool) as the top fix in the Content Studio report.
+
+## 2026-10-19 (Mon, ~17:55)
+- Reel #5 (today 10:00, low-rating alert, https://www.instagram.com/reel/Deqyb8iiurO/): 14 views / 9 reach / 1 like after ~8 h; 3-s rate 30%, avg watch only 2.9 s (of 10.4 s) — first Reel where viewers drop early; the "Gość daje 2★ / I co teraz?" opening may read as static. 0 saves/shares/comments.
+- Everything older unchanged (Reel #1 244/188, carousel #2 39/12, Reel #2 11/7, question 11/6, tips 15/6, Reel #3 7/4). Reel #1 likes now report 5 (Metricool reels connector) vs 8 interactions logged earlier — interactions incl. shares; no real change.
+- Followers 6, 0 gained / 0 lost (6th flat day). Stories: 0 in Metricool (manual Stories don't sync).
+- Queue: Tue 20 / Wed 21 / Fri 23 (10:00) all still DRAFTS, no yes from Toko yet (Content Studio asked 8:50). Nothing approved to move. Best time 20–26 Oct unchanged: 10:00 every day (Tue 4942, Wed 6506, Thu 6275, Fri 6734, Sat 3409, Sun 2582, Mon 5528).
+- No new drafts: three unapproved drafts already cover the next 3 days; more would just pile up unapproved. Story images exist for all three (week43). Sent Toko one short nudge for the yes (Tue posts only if approved before 10:00).
+
+### What works / doesn't (so far)
+- Fourth Reel in a row at follower-level reach (4–9). Distribution is the blocker, unchanged by format or topic. Reel #5 also shows weaker hold (2.9 s avg) → next Reels must open on motion (tap/notification), not a text card.
+- Top fixes (Content Studio report 26 Oct): FB Page link (enables audio via Metricool + ads), TRIAL_REEL for Reel #6, founder early engagement, daily outreach.

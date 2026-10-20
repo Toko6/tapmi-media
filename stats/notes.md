@@ -91,3 +91,15 @@
 ### What works / doesn't (so far)
 - Fourth Reel in a row at follower-level reach (4–9). Distribution is the blocker, unchanged by format or topic. Reel #5 also shows weaker hold (2.9 s avg) → next Reels must open on motion (tap/notification), not a text card.
 - Top fixes (Content Studio report 26 Oct): FB Page link (enables audio via Metricool + ads), TRIAL_REEL for Reel #6, founder early engagement, daily outreach.
+
+## 2026-10-20 (Tue, ~17:55)
+- Reel #5 (19 Oct): 15 views / 11 reach / 1 like after ~32 h (+1 view in 24 h → stalled); 3-s rate 27.3%, avg watch 3.5 s of 10.4 s. No test push, 5th Reel in a row at follower-level reach.
+- All older posts unchanged (Reel #1 244/188, carousel #2 39/12, Reel #2 11/7, question 11/6, tips 15/6, Reel #3 7/4). 0 saves/shares/comments since 13 Oct.
+- Account: 19 Oct views 15 / reach 11. Followers 6 (7th flat day, 0 gained/0 lost). Stories: 0 in Metricool.
+- No feed post today: Tue 20 "3 błędy" carousel stayed a DRAFT (no yes from Toko). Moved that draft to Thu 22 10:00 (6275, free day) so Wed 21 / Thu 22 / Fri 23 form a daily run once approved (page stalled → one a day). Content unchanged; new id 401256852 (uuid same).
+- Queue: zero approved posts. Wed 21, Thu 22, Fri 23 10:00 all drafts. Best time 21–27 Oct unchanged (10:00 best every day; Fri 6734, Wed 6506, Thu 6275, Mon 5528, Tue 4942, Sat 3409, Sun 2582).
+- No new drafts: three unapproved drafts already cover the next 3 days. Reel #6 + #7 footage delivered today by Demo Recorder (raw/reel6, raw/reel7) → Content Studio can build them Mon 26 (or earlier if the queue empties). Story images exist for all three drafts (week43).
+- Nudged Toko once for the yes.
+
+### What works / doesn't (so far)
+- Unchanged: distribution is the blocker (every post ≈ follower count). Approval lag is now the second blocker: 1 lost slot (Tue 20). Biggest fixes remain FB Page link (audio + ads), TRIAL_REEL for Reel #6, founder early engagement, outreach.

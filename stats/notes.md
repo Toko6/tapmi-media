@@ -103,3 +103,13 @@
 
 ### What works / doesn't (so far)
 - Unchanged: distribution is the blocker (every post ≈ follower count). Approval lag is now the second blocker: 1 lost slot (Tue 20). Biggest fixes remain FB Page link (audio + ads), TRIAL_REEL for Reel #6, founder early engagement, outreach.
+
+## 2026-10-21 (Wed, ~17:55)
+- Every post unchanged vs yesterday (Reel #1 244/188, carousel #2 39/12, Reel #2 11/7, question 11/6, tips 15/6, Reel #3 7/4, Reel #5 15/11, 3-s 27.3%, avg watch 3.5 s). 0 saves/shares/comments since 13 Oct.
+- Followers 6, 0 gained / 0 lost (8th flat day). Account views/reach 20–21 Oct: 0. Stories: 0 in Metricool. Last feed post Mon 19 → 2 days without a post; page fully stalled.
+- No feed post today: Wed 21 "Jak poprosić" carousel stayed a DRAFT (no yes). Moved it (still draft, content identical) to Sat 24 10:00 (3409, next free day) → Thu 22 / Fri 23 / Sat 24 run daily once approved. New id 402290182 (uuid -2033658408743844804).
+- Queue: zero approved posts; Thu 22 "3 błędy", Fri 23 kelner post, Sat 24 "Jak poprosić" all drafts at 10:00. Best time 22–28 Oct unchanged (10:00 best every day: Fri 6734, Wed 6506, Thu 6275, Mon 5528, Tue 4942, Sat 3409, Sun 2582).
+- No new drafts: three unapproved drafts already cover the next 3 days. Story images exist for all three (week43). Nudged Toko for the yes.
+
+### What works / doesn't (so far)
+- Unchanged: distribution is the blocker, and approval lag now costs 2 slots (Tue 20, Wed 21). If no yes by Mon 26, Content Studio should propose a lighter approval rule (e.g. one batch yes per week) in its report.

@@ -113,3 +113,13 @@
 
 ### What works / doesn't (so far)
 - Unchanged: distribution is the blocker, and approval lag now costs 2 slots (Tue 20, Wed 21). If no yes by Mon 26, Content Studio should propose a lighter approval rule (e.g. one batch yes per week) in its report.
+
+## 2026-10-22 (Thu, ~17:55)
+- Every post unchanged vs yesterday (Reel #1 244/188, carousel #2 39/12, Reel #2 11/7, question 11/6, tips 15/6, Reel #3 7/4, Reel #5 15/11, 3-s 27.3%, avg watch 3.5 s). 0 saves/shares/comments since 13 Oct.
+- Followers 6 (9th flat day). Account views/reach 20–22 Oct: 0. Stories: 0 in Metricool. 3 days without a feed post.
+- Thu 22 "3 błędy" stayed a DRAFT (no yes; 3rd lost slot). Moved it (still draft, identical content) to Sun 25 10:00 (2582, only free day before Mon 26 Reel #6 slot). New id 403300754 (uuid -2310184660680227354).
+- Queue: zero approved. Drafts: Fri 23 kelner (399687648), Sat 24 "Jak poprosić" (402290182), Sun 25 "3 błędy" (403300754), all 10:00. Best time 23–29 Oct unchanged (10:00 best every day).
+- No new drafts (three unapproved already cover the next 3 days). Story images exist for all three (week43). Sent Toko one short nudge with the new dates.
+
+### What works / doesn't (so far)
+- Unchanged: distribution is the blocker; approval lag has now cost 3 slots (Tue 20, Wed 21, Thu 22). Content Studio 26 Oct should propose a weekly batch-approval rule.

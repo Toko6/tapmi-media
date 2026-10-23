@@ -123,3 +123,13 @@
 
 ### What works / doesn't (so far)
 - Unchanged: distribution is the blocker; approval lag has now cost 3 slots (Tue 20, Wed 21, Thu 22). Content Studio 26 Oct should propose a weekly batch-approval rule.
+
+## 2026-10-23 (Fri, ~17:55)
+- Every post unchanged vs yesterday (Reel #1 244/188, carousel #2 39/12, Reel #2 11/7, question 11/6, tips 15/6, Reel #3 7/4, Reel #5 15/11, 3-s 27.3%, avg watch 3.5 s). 0 saves/shares/comments since 13 Oct.
+- Followers 6, 0 gained / 0 lost (10th flat day). Account views/reach 20–23 Oct: 0. Stories: 0 in Metricool. 4 days without a feed post.
+- Toko APPROVED all three drafts today (~17:15): Sat 24 kelner (404272804), Sun 25 "Jak poprosić" (404272875), Mon 26 "3 błędy" (404272952), all 10:00, scheduled (not drafts). Daily run, 24 h apart, best hour each day → no move needed. Weekend scores are lower (Sat 3409, Sun 2582 vs weekdays 4942–6734) but pulling to a weekday isn't possible (one post/day, and they're already back-to-back); keeping them, since a stalled page needs posts out now.
+- Story images for all three already exist and were sent today (stories/2026-10-week43/). Nothing for Toko to do from this run.
+- Queue ends Mon 26. Tue 27 onward is Content Studio's (Mon 26 8:45: Reel #6 Tue 27, carousel Wed 28, Reel #7 Thu 29). Not making extra drafts tonight to avoid duplicating that batch; if Content Studio's drafts aren't approved by Tue 27 10:00, the Mon 27 run should move them forward as usual.
+
+### What works / doesn't (so far)
+- Unchanged: distribution is the blocker (every post ≈ follower count). Approval lag cost 4 slots (Tue 20–Fri 23). Weekend posts are a test of whether low-competition days do any better at 6 followers.

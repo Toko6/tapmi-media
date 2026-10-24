@@ -133,3 +133,14 @@
 
 ### What works / doesn't (so far)
 - Unchanged: distribution is the blocker (every post ≈ follower count). Approval lag cost 4 slots (Tue 20–Fri 23). Weekend posts are a test of whether low-competition days do any better at 6 followers.
+
+## 2026-10-24 (Sat, ~17:55)
+- Sat 24 kelner single post PUBLISHED 10:00 (https://www.instagram.com/p/De3qQVsCO_8/). After ~8 h: 5 views / 1 reach / 0 interactions / 0 follows. Weakest first-day reach so far (weekend + 5 days of silence before it).
+- All older posts unchanged (Reel #1 244/188, carousel #2 39/12, Reel #2 11/7, question 11/6, tips 15/6, Reel #3 7/4, Reel #5 15/11, 3-s 27.3%, avg watch now 3.3 s). 0 saves/shares/comments since 13 Oct.
+- Followers 6 (11th flat day). Stories in Metricool: 0 (Toko posts in-app; Metricool shows none for 24 Oct yet).
+- Queue: Sun 25 "Jak poprosić" (404272875), Mon 26 "3 błędy" (404272952), both 10:00, approved. Already daily, 24 h apart, best hour → no move. Best time 25–31 Oct unchanged (10:00 best every day; Fri 6734, Wed 6506, Thu 6275, Mon 5528, Tue 4942, Sat 3409, Sun 2582).
+- Stories: images exist for both upcoming posts (week43, sent 23 Oct). Nothing new for Toko.
+- Queue ends after Mon 26 (Tue 27 empty = within 3 days). Not making extra drafts: Content Studio runs Mon 26 8:45 (before the queue empties) with Reel #6 / carousel / Reel #7 for Tue–Thu from delivered footage; extra drafts tonight would duplicate that batch. Mon 26 run: if Content Studio's drafts aren't approved by Tue 27 10:00, move them forward as drafts.
+
+### What works / doesn't (so far)
+- Unchanged: distribution is the blocker. Saturday post with 1 reach after 8 h suggests weekend slots are worse, not better, at 6 followers; prefer weekdays for Reels #6/#7.

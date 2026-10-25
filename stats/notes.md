@@ -144,3 +144,16 @@
 
 ### What works / doesn't (so far)
 - Unchanged: distribution is the blocker. Saturday post with 1 reach after 8 h suggests weekend slots are worse, not better, at 6 followers; prefer weekdays for Reels #6/#7.
+
+## 2026-10-25 (Sun, ~17:55 CET — clocks moved back today)
+- Sun 25 "Jak poprosić" carousel PUBLISHED 10:07 (https://www.instagram.com/p/De6WCzqiAAF/). After ~8 h: 5 views / 2 reach / 0 interactions.
+- Kelner post (Sat 24) grew 5 → 14 views, 1 → 5 reach, 1 like in its second day. Not flat.
+- Older posts each +1–5 views (small residual spread, likely profile visits after the new posts): Reel #1 249/189, carousel #2 44/13, Reel #2 13/8 (3-s 42.9%), question 13/7, tips 16/7, Reel #3 8/5, Reel #5 16/12. Still 0 saves/comments since 13 Oct.
+- Followers: 7 on 24 Oct (+1, first gain in 11 days), Metricool shows 6 again for 25 Oct (lag or −1). Account views 24 Oct: 30 (first non-zero since 19 Oct) → posting again restarted some distribution.
+- Stories in Metricool: 0 (Toko posts in-app; Metricool may not count them).
+- Queue: only Mon 26 "3 błędy" 10:00 (404272952, approved) — daily, 24 h after today, best hour (Mon 10:00 = 5528). No move. Best time 26 Oct–1 Nov unchanged (10:00 best every day).
+- Story image for Mon 26 exists (stories/2026-10-week43/tapmi-story-3bledy.png, sent 23 Oct). Nothing for Toko tonight.
+- Queue empty from Tue 27. Content Studio runs Mon 26 8:45 and builds Reel #6 / Wed carousel / Reel #7 from delivered footage — not drafting extra posts tonight to avoid a duplicate batch. Mon 26 run: chase approval; if Tue 27 slot is missed, move drafts forward.
+
+### What works / doesn't (so far)
+- Restarting daily posts lifted account views from 0 to 30/day and brought the first follower in 11 days; kelner single post kept growing on day 2. Daily cadence helps even at this size; keep it.

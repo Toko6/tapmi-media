@@ -1,6 +1,6 @@
 # DRAFT — Wed 28 Oct 2026 10:00 — Carousel — jak rozmawiać z zespołem o ocenach
 
-Status: Metricool DRAFT, waiting for Toko's yes. Made by Content Studio 26 Oct. Type: POST (carousel, 7 slides).
+Status: Metricool DRAFT (id 406313615, uuid 2923286397270181179), waiting for Toko's yes. Made by Content Studio 26 Oct. Type: POST (carousel, 7 slides).
 Visual: 7 slides 1080x1350: hook / 5 zasad (nie po jednym wieczorze; chwal publicznie, poprawiaj w cztery oczy; komentarze nie tylko gwiazdki; jedna rzecz na tydzień; przyczyna nie winny) / CTA per-waiter + 15-rating rule + tapmi.pl.
 Story: stories/2026-10-week44/tapmi-story-zespol.png (Toko posts ~10:15 with music).
 

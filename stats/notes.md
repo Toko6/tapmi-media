@@ -168,3 +168,8 @@
 
 ### What works / doesn't (so far)
 - Day-2 growth on feed posts is consistent (kelner 5→14, jak-prosic 5→19): posts keep picking up views on day 2, so ~24 h spacing is right. Daily cadence 24–26 Oct kept account views >0; the risk now is another approval gap from Tue 27.
+
+## 2026-10-26 (Mon, ~18:45) — Toko replied
+- Toko approved Tue 27 Reel #6 (TRIAL_REEL), Wed 28 carousel zespół, Thu 29 Reel #7 → now SCHEDULED 10:00 (new ids 406947166, 406947180, 406947190; content identical).
+- Toko: avoid question/poll ("questionnaire") posts until the page has followers/audience. Replaced Fri 30 A/B/C post with a 5-slide carousel "Jak działa TapMi" (drafts/2026-10-30-jak-dziala-carousel/), caption without a closing question. Same Metricool item updated, still DRAFT (id 406948367, uuid -1654493065736927340) waiting for his yes.
+- Sent Story images for Tue/Wed/Thu (week44). Fri Story to be made once the carousel is approved.

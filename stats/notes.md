@@ -157,3 +157,14 @@
 
 ### What works / doesn't (so far)
 - Restarting daily posts lifted account views from 0 to 30/day and brought the first follower in 11 days; kelner single post kept growing on day 2. Daily cadence helps even at this size; keep it.
+
+## 2026-10-26 (Mon, ~17:55)
+- Mon 26 "3 błędy" carousel PUBLISHED 10:00 (https://www.instagram.com/p/De861VyCKPE/). Metricool has no insights for it yet (not ingested after ~8 h); logged blank, fill tomorrow.
+- "Jak poprosić" (Sun 25) grew 5 → 19 views, 2 → 4 reach, 2 likes on day 2 (same day-2 bump as the kelner post). Kelner post flat at 14/5 (day 3). All older posts unchanged vs 25 Oct. Still 0 saves/shares/comments on feed posts.
+- Followers 7 (24 and 25 Oct both 7; yesterday's "6" was lag). Account views 24 Oct 30, 25 Oct 19; 26 Oct not reported yet. Stories in Metricool: 0.
+- Queue: no APPROVED post after today. Content Studio's 4 drafts (Tue 27 Reel #6 TRIAL_REEL 406313606, Wed 28 carousel zespół 406313615, Thu 29 Reel #7 406313624, Fri 30 pytanie 406313627, all 10:00) are still draft:true. Best time 27 Oct–2 Nov unchanged (10:00 best every day; Fri 6734, Wed 6506, Thu 6275, Mon 5528, Tue 4942, Sat 3409, Sun 2582). Nothing approved to move.
+- Story images for all 4 drafts already exist (stories/2026-10-week44/); will send once approved. No new drafts (4 unapproved already cover 4 days). Sent Toko a short nudge: one yes before Tue 10:00 keeps the daily streak.
+- Next run (Tue 27): if still no yes, move the 4 drafts one weekday later (Tue→Wed … Fri→Mon 2 Nov), skip Sat 31/Sun 1.
+
+### What works / doesn't (so far)
+- Day-2 growth on feed posts is consistent (kelner 5→14, jak-prosic 5→19): posts keep picking up views on day 2, so ~24 h spacing is right. Daily cadence 24–26 Oct kept account views >0; the risk now is another approval gap from Tue 27.

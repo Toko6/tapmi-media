@@ -173,3 +173,10 @@
 - Toko approved Tue 27 Reel #6 (TRIAL_REEL), Wed 28 carousel zespół, Thu 29 Reel #7 → now SCHEDULED 10:00 (new ids 406947166, 406947180, 406947190; content identical).
 - Toko: avoid question/poll ("questionnaire") posts until the page has followers/audience. Replaced Fri 30 A/B/C post with a 5-slide carousel "Jak działa TapMi" (drafts/2026-10-30-jak-dziala-carousel/), caption without a closing question. Same Metricool item updated, still DRAFT (id 406948367, uuid -1654493065736927340) waiting for his yes.
 - Sent Story images for Tue/Wed/Thu (week44). Fri Story to be made once the carousel is approved.
+
+## 2026-10-27 (Tue, ~17:55)
+- Reel #6 did NOT publish at 10:00: Metricool error "account does not meet the trial reel follower requirement" (TRIAL_REEL needs more followers; we have 7). The reel6 Story reshare auto-published at 10:15 anyway, pointing to a Reel that isn't there.
+- Changed: Reel #6 rescheduled as a normal REEL (same video, cover, caption) to Sat 31 Oct 10:00 (new id 408054903, uuid unchanged). Chose Sat instead of shifting Wed–Fri so the approved Wed/Thu posts and their 10:15 Stories stay aligned; Sat 10:00 is the weekend's best hour (3409). Toko asked to post the reel6 Story himself Sat ~10:15 and delete today's orphaned Story.
+- Rule learnt: no TRIAL_REEL until the account meets Instagram's follower threshold; use REEL.
+- "3 błędy" (Mon 26) day 1: 16 views / 5 reach / 1 like. Jak prosic flat at 19/4 (day 3). Other posts unchanged. Followers 7. Account views 26 Oct 16, reach 5. 0 saves/shares/comments still. Stories in Metricool analytics: none reported yet.
+- Today has no feed post (failed Reel). Queue: Wed 28 zespół, Thu 29 Reel #7 (both 10:00 + Stories 10:15), Fri 30 Jak działa still DRAFT, Sat 31 Reel #6. Best time 28 Oct–3 Nov unchanged (10:00 best every day). Queue doesn't run out within 3 days; Content Studio plans Mon 2. No new drafts. raw/reel8 + reel9 delivered (d7d8d10).

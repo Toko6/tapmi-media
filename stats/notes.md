@@ -180,3 +180,13 @@
 - Rule learnt: no TRIAL_REEL until the account meets Instagram's follower threshold; use REEL.
 - "3 błędy" (Mon 26) day 1: 16 views / 5 reach / 1 like. Jak prosic flat at 19/4 (day 3). Other posts unchanged. Followers 7. Account views 26 Oct 16, reach 5. 0 saves/shares/comments still. Stories in Metricool analytics: none reported yet.
 - Today has no feed post (failed Reel). Queue: Wed 28 zespół, Thu 29 Reel #7 (both 10:00 + Stories 10:15), Fri 30 Jak działa still DRAFT, Sat 31 Reel #6. Best time 28 Oct–3 Nov unchanged (10:00 best every day). Queue doesn't run out within 3 days; Content Studio plans Mon 2. No new drafts. raw/reel8 + reel9 delivered (d7d8d10).
+
+## 2026-10-28 (Wed, ~17:55)
+- Wed 28 carousel zespół PUBLISHED 10:00 (https://www.instagram.com/p/DfCEUXKDS53/); its Story auto-published 10:15. No insights ingested yet; fill tomorrow.
+- "3 błędy" day 2: 16 → 20 views, 2 likes (day-2 bump again, smaller). Kelner 14 → 17, jak-prosic 19 → 22 (slow tail growth, day 3–4). Reel #5 16 → 20 views, 3 s rate now 21.4%, avg watch 3.7 s. Others flat. Followers 7. Account views 27 Oct 25 / reach 5, even with no feed post that day (Reel failed) — tail of older posts carried it. Still 0 saves/shares/comments. Stories: Metricool reports 0 (doesn't count them).
+- Queue: Thu 29 Reel #7 10:00 (+Story 10:15, scheduled), Fri 30 Jak działa still DRAFT, Sat 31 Reel #6 REEL 10:00. Best time 29 Oct–4 Nov unchanged (10:00 best every day). Spacing already 24 h, page not stalled → no moves.
+- Rendered Story for Fri carousel: stories/2026-10-week44/tapmi-story-jak-dziala.png (send only after Toko approves). Reminded Toko: yes for Fri carousel (else moved to Mon 2 Nov), music on Reel #7 right after 10:00 tomorrow.
+- No new drafts: approved queue lasts to Sat 31, Sun 1 is a planned rest day, Fri draft is the Mon 2 fallback, and Content Studio builds next week on Mon 2 8:45 (avoid duplicate batch). Risk: Mon 2/Tue 3 approval lag — Content Studio should get its batch in front of Toko early.
+
+### What works / doesn't (so far)
+- Every feed post keeps adding views for 3–4 days (tail), so even a missed day keeps account views ~20–25. Day-2 bump is the biggest single gain. Reels without music/test push stay at ~1–2× follower count; reach (not content) remains the bottleneck → FB Page + paid test are the real lever.

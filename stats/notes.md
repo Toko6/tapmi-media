@@ -190,3 +190,13 @@
 
 ### What works / doesn't (so far)
 - Every feed post keeps adding views for 3–4 days (tail), so even a missed day keeps account views ~20–25. Day-2 bump is the biggest single gain. Reels without music/test push stay at ~1–2× follower count; reach (not content) remains the bottleneck → FB Page + paid test are the real lever.
+
+## 2026-10-29 (Thu, ~17:55)
+- Thu 29 Reel #7 PUBLISHED 10:00 (https://www.instagram.com/reel/DfEpJiKDQC6/), Story auto-published 10:15. Day 1: 34 views / 24 reach / 1 like — best day-1 views and reach since Reel #1, reach 3× followers (some non-follower distribution). But retention weak: 19.2% past 3 s, avg watch 2.7 s of 9.4 s. Opening is the email scroll with text pill — reads as text-first again.
+- Wed 28 zespół carousel day 1: 13 views / 4 reach / 1 like (lowest feed start so far). Others flat vs yesterday (3 błędy 20, kelner 17, jak-prosic 22). Followers 7 (no change in 8 days). Account views 28 Oct 18. 0 saves/shares/comments still. Stories: Metricool reports none.
+- Queue: Fri 30 Jak działa still DRAFT (no yes yet), Sat 31 Reel #6 REEL 10:00. Best time 30 Oct–5 Nov unchanged (10:00 best every day). Page not stalled (Reel #7 moving), spacing 24 h → no moves.
+- Tomorrow's run (after Fri 10:00): if Jak działa still not approved, move draft to Mon 2 Nov 10:00 (keep draft:true). Remind Toko then about Sat reel6 Story ~10:15 + music on Reel #6.
+- No new drafts: approved queue to Sat 31, Sun 1 rest, Content Studio builds next week Mon 2 8:45.
+
+### What works / doesn't (so far)
+- Reels still get more first-day reach than carousels (Reel #7 24 vs carousels 4–5), even without music. But every Reel since #2 loses ~80% before 3 s → next Reels (#8/#9) must open on movement (tap/stars/notification) with no text-only first frame; consider cutting to ~7 s.

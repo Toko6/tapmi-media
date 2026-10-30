@@ -200,3 +200,13 @@
 
 ### What works / doesn't (so far)
 - Reels still get more first-day reach than carousels (Reel #7 24 vs carousels 4–5), even without music. But every Reel since #2 loses ~80% before 3 s → next Reels (#8/#9) must open on movement (tap/stars/notification) with no text-only first frame; consider cutting to ~7 s.
+
+## 2026-10-30 (Fri, ~17:55)
+- No feed post today: Fri "Jak działa" carousel still not approved. Moved its draft to Mon 2 Nov 10:00 (still draft:true; new id 411451559, uuid -1654493065736927340).
+- Reel #7 day 2: 34 → 69 views, 24 → 55 reach (≈8× followers) — best non-follower reach since Reel #1, 1 like. Retention fell: 3-s rate 12.1%, avg watch 2.3 s. Instagram is testing it on new viewers but the opening isn't holding them. Account 29 Oct: 73 views / 57 reach (best day since mid-Oct), driven by the Reel.
+- Feed posts flat vs yesterday (zespół 13/4 day 2 — no day-2 bump this time; 3 błędy 20, kelner 17, jak-prosic 22). Followers 7 (no change 9 days, 0 gained from Reel #7's reach). 0 saves/shares/comments. Stories: Metricool reports 0.
+- Queue: only Sat 31 Reel #6 REEL 10:00 approved. Sun 1 rest. Mon 2 Jak działa (DRAFT), Wed 4 NEW draft "Niska ocena przy stoliku — 4 kroki" tips carousel (6 slides, drafts/2026-11-04-niska-ocena-carousel/, id 411451579, uuid 8086480056947527516) — made because the approved queue ends Sat. Left Tue 3 / Thu 5 for Content Studio's Reels #8/#9. Best time 31 Oct–6 Nov unchanged (10:00 best every day).
+- Nothing to move: Sat Reel #6 already at the best hour and ≥20 h from anything.
+
+### What works / doesn't (so far)
+- Reels get pushed to non-followers on day 2 (Reel #7 55 reach) even without music, but reach without retention doesn't convert to follows. Two levers: (1) Reel openings — first frame must be motion (tap/stars/notification), no email/text scroll; (2) approval lag kills days (Tue 27 and Fri 30 empty). A Monday batch yes from Toko is the biggest fix.

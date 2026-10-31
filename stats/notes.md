@@ -210,3 +210,15 @@
 
 ### What works / doesn't (so far)
 - Reels get pushed to non-followers on day 2 (Reel #7 55 reach) even without music, but reach without retention doesn't convert to follows. Two levers: (1) Reel openings — first frame must be motion (tap/stars/notification), no email/text scroll; (2) approval lag kills days (Tue 27 and Fri 30 empty). A Monday batch yes from Toko is the biggest fix.
+
+## 2026-10-31 (Sat, ~17:55)
+- Reel #6 (comment search) PUBLISHED 10:00 as REEL (https://www.instagram.com/reel/DfJyq1Jjxgg/). Day 1 (~8 h): 15 views / 11 reach / 1 like, **3-s rate 50%** and avg watch 4.0 s of 8.4 s — best retention of any Reel so far (beats Reel #2 42.9%). Opening = typing into the search box (motion + concrete question "Ktoś narzekał na pierogi?").
+- Reel #7 flat day 3: 69 views / 55 reach, 12.1%. Non-follower test ended. Feed posts all flat (zespół 13, 3 błędy 20, jak-prosic 22, kelner 17). Followers 7 (10 days no change). 0 saves/shares/comments still.
+- Account: Fri 30 Oct only 1 view / 1 reach — the empty Fri (no approved post) dropped the page to ~0. Clear proof that empty days = zero reach at this size.
+- Stories: Metricool reports 0 (doesn't count manual Stories).
+- Queue (next 14 days): nothing approved. Mon 2 Jak działa (DRAFT 411451559), Wed 4 Niska ocena (DRAFT 411451579). Tue 3 / Thu 5 / Fri 6 reserved for Content Studio (Mon 2 8:45: Reels #8/#9). Best time 1–7 Nov: 10:00 best every day (Mon 5528, Wed 6506, Thu 6275, Fri 6734; Sun 2582).
+- Changed: nothing moved (no approved posts left to move). Rendered Story for Wed 4 draft: stories/2026-11-week45/tapmi-story-niska-ocena.png. No new drafts: 2 drafts already waiting for one yes, Content Studio builds the rest of the week Mon morning — more drafts would only add to the approval backlog.
+
+### What works / doesn't (so far)
+- Reels that open on a concrete owner problem + live UI motion hold viewers (Reel #6 50%, Reel #2 43%); Reels that open on email/text scroll lose them (#5 25%, #7 12–19%). Template for #8/#9: first frame = UI in motion with a specific question as hook.
+- Approval lag is the #1 problem now: Tue 27 and Fri 30 empty, and Mon 2 risks the same. A missed day = ~0 account views.

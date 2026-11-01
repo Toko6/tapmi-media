@@ -222,3 +222,13 @@
 ### What works / doesn't (so far)
 - Reels that open on a concrete owner problem + live UI motion hold viewers (Reel #6 50%, Reel #2 43%); Reels that open on email/text scroll lose them (#5 25%, #7 12–19%). Template for #8/#9: first frame = UI in motion with a specific question as hook.
 - Approval lag is the #1 problem now: Tue 27 and Fri 30 empty, and Mon 2 risks the same. A missed day = ~0 account views.
+
+## 2026-11-01 (Sun, ~17:55)
+- Reel #6 day 2: 15 → 47 views, 11 → 43 reach (≈6× followers, non-follower test started), 1 like. 3-s rate fell 50% → 30.2%, avg watch 2.5 s of 8.4 s — new viewers hold less than followers did, but still 2.5× Reel #7 (12.1%). Account 31 Oct: 34 views / 30 reach (from 1 on Fri).
+- Feed posts and Reel #7 flat. Followers 7 (11 days no change). 0 saves/shares/comments. Stories: Metricool reports 0. Sun 1 Nov (holiday) no post, planned.
+- Queue (2–15 Nov): nothing approved. Mon 2 Jak działa (DRAFT 411451559) and Wed 4 Niska ocena (DRAFT 411451579) still waiting for Toko's yes. Best time 2–8 Nov: 10:00 best every day (Mon 5528, Tue 4942, Wed 6506, Thu 6275, Fri 6734, Sat 3409, Sun 2582).
+- Changed: nothing moved (no approved posts). No new drafts: 2 already waiting + Content Studio builds Reels #8/#9 Mon 8:45. Reminded Toko to approve tonight (Story images re-attached).
+- Tomorrow: if Jak działa still not approved by the run, move draft to next free day (keep draft); otherwise send nothing new.
+
+### What works / doesn't (so far)
+- Reel #6 confirms the template: UI motion + concrete owner question opening keeps ~30% past 3 s even on non-followers (vs 12% for text/email openings). Reach is still driven only by Reels' day-2 test; carousels stay at follower reach (4–6).

@@ -70,3 +70,36 @@ What to change (week 26 Oct–1 Nov):
 - Ad copy B: „Który kelner zbiera u Ciebie najlepsze oceny? Z TapMi każda osoba z obsługi ma swoje oceny, porównane uczciwie dopiero od 15 ocen. Napisz „DEMO”, pokażemy panel na przykładowych danych.” CTA: Wyślij wiadomość.
 - Needed first (Toko): Facebook Page linked to @tapmi.app (Business account), Meta payment method, tapmi.pl demo-request path tested end to end, someone answering DMs the same day. Earliest start: Mon 2 Nov.
 - Tracking (Claude, weekly): spend, cost per conversation, owner DMs, demo requests, follows.
+
+## Week 26 Oct – 1 Nov 2026 (Content Studio, Mon 2 Nov)
+
+Numbers (Metricool, lifetime as of 2 Nov ~8:45):
+| Post | Type | Views | Reach | Likes | Com. | Saves | Shares | 3-s rate | Avg watch |
+|---|---|---|---|---|---|---|---|---|---|
+| „3 błędy” carousel (Mon 26) | Carousel | 20 | 5 | 2 | 0 | 0 | 0 | – | – |
+| „Oceny kelnerów” carousel (Wed 28) | Carousel | 13 | 4 | 1 | 0 | 0 | 0 | – | – |
+| Reel #7 Monday summary (Thu 29) | Reel | 69 | 55 | 1 | 0 | 0 | 0 | 12.1% | 2.3 s / 9.4 |
+| Reel #6 comment search (Sat 31) | Reel | 47 | 43 | 1 | 0 | 0 | 0 | 30.2% (50% day 1) | 2.5 s / 8.4 |
+- Followers 7 → 7 (no change since ~21 Oct). Account views: 26 Oct 16, 27 Oct 25, 28 Oct 18, 29 Oct 73, 30 Oct 1, 31 Oct 34. Stories not reported by Metricool.
+- Goals: posts/week 4 ✅ (but Tue 27 + Fri 30 empty) · Reels 35%+ past 3 s ❌ (Reel #6 50% on followers, 30% after non-follower test; Reel #7 12%) · saves+shares 0 ❌ · owner conversations 0 ❌ · demo requests 0 ❌.
+
+What worked:
+- Reels get non-follower reach on day 2 even without music (Reel #7 55, Reel #6 43 ≈ 6–8× followers). Carousels stay at follower reach (4–5).
+- Reel #6 opening (typing a concrete owner question into the UI) held 2.5× better than the email-scroll opening of Reel #7.
+
+What didn't:
+- Approval lag again: Tue 27 (trial-reel failure) and Fri 30 (no yes) empty; Fri 30 the page dropped to 1 view.
+- No follows, saves, shares or comments from ~200 views: reach without a reason to follow.
+- Mon 2 Nov draft still unapproved at 8:45 → Mon empty.
+
+What to change (week 2–8 Nov):
+1. All four posts Tue–Fri at 10:00 (Mon skipped: no yes): Tue Reel #8 (PL/UK/EN), Wed „Niska ocena” carousel, Thu „Jak działa TapMi” carousel (moved from Mon), Fri Reel #9 („Załatwione”). Reels on Tue/Fri, 3 days apart, each opening on UI motion within 0.5 s.
+2. Ask for one batch yes for all four today.
+3. Captions end with easy questions; carousels ask for a save.
+4. Footage requested for next week: Reel #10 (average + weekly trend, Tue 10 Nov) and Reel #11 („Do przeczytania”, Fri 13 Nov).
+
+### Paid ads — update to proposal #1 (2 Nov)
+- Still waiting for Toko's decision; blocker = no Facebook Page linked to @tapmi.app (needed for Meta ads and music via Metricool).
+- Change of creatives based on this week: A) Reel #6 comment search (best hold on non-followers: 30% past 3 s, 43 reach); B) Reel #2 „Gość ocenia w 5 sekund” (42.9%). Reel #3 dropped (20%). Re-check Reel #8/#9 after their day-2 test; swap in if either beats 30%.
+- Ad copy A (Reel #6): „Ktoś narzekał na pierogi? W panelu TapMi wpisujesz jedno słowo i widzisz wszystkie komentarze gości z nim, z gwiazdkami i imieniem osoby z obsługi. Prowadzisz lokal we Wrocławiu? Napisz „DEMO”, pokażemy panel na przykładowych danych.” CTA: Wyślij wiadomość.
+- Ad copy B unchanged (proposal #1). Targeting, budget (suggest 25 zł/day × 14 days ≈ 350 zł, Toko decides), stop rule and prerequisites unchanged. Earliest start: 2–3 days after the FB Page is linked and payment method set.

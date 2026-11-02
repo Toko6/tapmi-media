@@ -232,3 +232,9 @@
 
 ### What works / doesn't (so far)
 - Reel #6 confirms the template: UI motion + concrete owner question opening keeps ~30% past 3 s even on non-followers (vs 12% for text/email openings). Reach is still driven only by Reels' day-2 test; carousels stay at follower reach (4–6).
+
+## 2026-11-02 (Mon, ~08:55, Content Studio)
+- Mon 2 „Jak działa” still not approved at 8:45 → moved draft to Thu 5 Nov 10:00 (new id 413649027, uuid -1654493065736927340). Mon 2 stays empty.
+- New drafts: Tue 3 Reel #8 PL/UK/EN (id 413649006, uuid 2369062703247544211), Fri 6 Reel #9 „Załatwione” (id 413649019, uuid 3394099193949667502), both REEL 10:00. Wed 4 „Niska ocena” unchanged (id 411451579). Week plan Tue–Fri, 4 posts, all draft until Toko's yes.
+- Story images: stories/2026-11-week45/ (reel8, niska-ocena, reel9) + stories/2026-10-week44/tapmi-story-jak-dziala.png (Thu).
+- Shot lists requested: raw/reel10 (average + trend, Tue 10 Nov), raw/reel11 („Do przeczytania”, Fri 13 Nov).

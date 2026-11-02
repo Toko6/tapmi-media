@@ -238,3 +238,13 @@
 - New drafts: Tue 3 Reel #8 PL/UK/EN (id 413649006, uuid 2369062703247544211), Fri 6 Reel #9 „Załatwione” (id 413649019, uuid 3394099193949667502), both REEL 10:00. Wed 4 „Niska ocena” unchanged (id 411451579). Week plan Tue–Fri, 4 posts, all draft until Toko's yes.
 - Story images: stories/2026-11-week45/ (reel8, niska-ocena, reel9) + stories/2026-10-week44/tapmi-story-jak-dziala.png (Thu).
 - Shot lists requested: raw/reel10 (average + trend, Tue 10 Nov), raw/reel11 („Do przeczytania”, Fri 13 Nov).
+
+## 2026-11-02 (Mon, ~18:45, Daily Growth Check)
+- No post today (Mon 2 empty, no yes in time). Reel #6 flat day 3 (47 views / 43 reach / 30.2%, avg 2.5 s) — non-follower test over. Reel #7 and all carousels flat. Account Sun 1 Nov: 13 views / 13 reach (down from 34 Sat) — decay continues without new posts. Followers 7 (12 days unchanged). 0 saves/shares/comments. Stories: Metricool 0.
+- Queue 3–16 Nov: Tue 3 Reel #8, Wed 4 Niska ocena, Thu 5 Jak działa, Fri 6 Reel #9 — ALL still draft:true (no yes from Toko yet). Nothing after Fri 6 (Content Studio builds week 9–15 on Mon 9).
+- Best time 3–9 Nov unchanged: 10:00 best every day (Tue 4942, Wed 6506, Thu 6275, Fri 6734). All drafts already sit at 10:00, ≥24 h apart.
+- Changed: nothing moved (no approved posts; Tue 3 slot hasn't passed yet). Story images for all 4 already exist (week45 + week44 jak-dziala). No new drafts: 4 already waiting; queue covers through Fri 6. Sent Toko a short reminder: Tue 3 Reel #8 needs a yes tonight/before 10:00.
+- Tomorrow: if Tue 3 Reel #8 still draft after 10:00, shift unapproved drafts forward (Tue→Sat 7 or next free weekday), keep draft.
+
+### What works / doesn't (so far)
+- Unchanged: page reach only moves when a Reel is in its day-2 non-follower test; empty days decay to ~0. Approval lag is still the bottleneck — 2 Nov became the 3rd empty weekday in a week.

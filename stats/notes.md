@@ -248,3 +248,14 @@
 
 ### What works / doesn't (so far)
 - Unchanged: page reach only moves when a Reel is in its day-2 non-follower test; empty days decay to ~0. Approval lag is still the bottleneck — 2 Nov became the 3rd empty weekday in a week.
+
+## 2026-11-03 (Tue, ~17:55, Daily Growth Check)
+- No post today (Tue 3 Reel #8 draft slot passed without a yes). All posts flat (Reel #6 47/43/30.2%, Reel #7 69/55/12.1%, carousels 13–22 views). Account Mon 2 Nov: 0 reach (from 13 Sun) — 4 days since last post (Sat 31). Followers 7 (13 days). 0 saves/shares/comments. Stories: Metricool 0.
+- Toko approved Reel #8 at ~15:40 (re-edited full-width video); that session put it on Sat 7 10:00 (draft:false, id 415358665).
+- Queue 4–17 Nov: Reel #8 approved; Thu 5 Jak działa, Fri 6 Reel #9, Wed 4 Niska ocena still draft. Nothing after Sat 7 (Content Studio Mon 9).
+- Best time 4–10 Nov unchanged: 10:00 best every day (Wed 6506, Thu 6275, Fri 6734 vs Sat 3409).
+- Changed: page stalled → pulled approved Reel #8 from Sat 7 to **Wed 4 10:00** (new id 415521990, uuid 2369062703247544211; weekday slot ~2× Sat score, ends a 4-day gap). Moved unapproved „Niska ocena” draft Wed 4 → **Sat 7 10:00** (new id 415522204, still draft) so Wed has one feed post. Thu 5 / Fri 6 drafts unchanged (≥24 h apart).
+- Story for Wed: existing stories/2026-11-week45/tapmi-story-reel8.png (old card crop, same opening frame — still accurate, kept). Sent to Toko with time + music reminder. No new drafts (3 drafts waiting, queue covers to Sat 7).
+
+### What works / doesn't (so far)
+- Unchanged: reach only moves when a Reel hits its day-2 non-follower test; empty days → 0 reach (Mon 2 = 0). Reel #8 Wed + Reel #9 Fri (if approved) = two non-follower tests this week.

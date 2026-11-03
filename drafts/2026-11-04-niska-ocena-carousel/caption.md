@@ -1,6 +1,7 @@
 # DRAFT — Wed 4 Nov 2026 10:00 — Carousel — niska ocena przy stoliku (tips pillar)
 
 Status: Metricool DRAFT (made by Daily Growth Check 30 Oct, queue ran out after Sat 31), waiting for Toko's yes. Type: POST (carousel, 6 slides, 1080x1350).
+Moved by Daily Growth Check 3 Nov to Sat 7 Nov 10:00 (Wed 4 now Reel #8, approved). Still DRAFT, Metricool id 415522204.
 Visual: hook / krok 1 podejdź w kilka minut / krok 2 słuchaj, potem tłumacz / krok 3 konkret / krok 4 zapisz / CTA alert + notatka + „Załatwione" + tapmi.pl.
 Story: make once approved (stories/2026-11-week45/).
 Content Studio: this covers the Wed 4 tips slot; don't duplicate.

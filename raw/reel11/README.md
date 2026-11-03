@@ -25,3 +25,6 @@ Hook idea: „Nie masz czasu czytać wszystkich ocen?” Motion in second 1 (tap
 * `a-new-since.mp4` (3.7 s): 0.0–0.3 s top of dashboard with „4 nowe oceny od ostatniej wizyty”; 0.3 s tap „Oceny” → jump (~0.3–1.4 s) to „Oceny gości”; 1.4–2.0 s small scroll so the „Do przeczytania · 4 nowe” tab sits under the jump bar; 2.0–3.7 s hold: Zosia 5★ „Piękny ogródek pod lipą, a szarlotka jak u babci!”, Michał 4★ „Smaczny żurek, tylko trochę długo czekaliśmy na rachunek.”, Kuba 2★ „Kotlet był zimny, a kelner się nie pojawiał.” (✓ załatwione + note) fully readable; Łucja 5★ only partly in view at the bottom (no room for a 4th full card).
 * `b-day-summary.mp4` (5.2 s): 0.0–0.4 s hold; 0.4–2.8 s slow scroll past the 4th new rating and the „WCZEŚNIEJ” divider (~1.3–1.8 s), older ratings, to the „Wczoraj · 3 dobre oceny bez komentarza” summary line; 2.8–3.8 s hold on it; 3.8 s tap → expands to the three 5★ ratings without a comment; hold to 5.2 s.
 * `c-all-tab.mp4` (3.1 s): 0.0–0.3 s „Do przeczytania”; 0.3 s tap „Wszystkie” → cut at ~0.4 s to the full list („Pasujące: 48”), hold ~1.1 s; ~1.6 s tap the 2★ chip → cut at ~1.7 s to „Pasujące: 2” (Kuba 2★ „Kotlet był zimny…”, Łucja 2★, both załatwione with notes); hold to 3.1 s.
+
+## Edit note (3 Nov)
+Use the full-width Reel layout from the repo README („Reel layout”). Don't use the small card.

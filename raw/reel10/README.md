@@ -26,3 +26,6 @@ Hook idea: „Średnia spada, a Ty dowiesz się za miesiąc?” Motion in second
 * `b-staff.mp4` (5.2 s): 0.15 s tap „Obsługa” → jump (~0.2–1.1 s) to „Oceny obsługi (ostatnie 30 dni)”: fairness chart and the table (Osoba / Oceny / Średnia / vs zespół (te same godziny) / % niskich / Trend…), Kuba and Michał rows in view; 1.5 s tap „Kuba” → page reloads (~2.0 s) to the dashboard filtered to Kuba („Tylko: Kuba”); ~2.9 s tap „Statystyki” → Kuba's numbers: average 4,2, „Za mało ocen do porównania” (only 6 ratings this week), 3 przejścia, 6 ocen; hold to 5.2 s. Cut at ~2.0 s if you only want the table.
 * `b2-staff-trend.mp4` (3.6 s, extra): team table with all four people (Kuba 35 · 4,3 · +0,1 · 20%, Michał 51 · 4,4, Łucja 48 · 4,4, Zosia 46 · 4,3); 0.6–1.8 s table swiped left to show „Trend”: Kuba ↘ 0,2, Michał ≈ bez zmian, Łucja ≈ bez zmian, Zosia ↘ 0,3; hold to 3.6 s.
 * `c-weekly-line.mp4` (2.0 s, static): close-up of the „Dzień dobry” block, rendered sharp at 9× and centred on the dashboard background (no zoomed crop): „Wszystko załatwione. Goście oceniają Was średnio na 4,2★ w tym tygodniu.”, „4 nowe oceny od ostatniej wizyty”, „Ten tydzień: 48 ocen · średnia 4,2★ · 14 przejść do opinii · załatwione: 12”.
+
+## Edit note (3 Nov)
+Use the full-width Reel layout from the repo README („Reel layout”). Don't use the small card.

@@ -1,6 +1,7 @@
 # DRAFT — Fri 6 Nov 2026 10:00 — Reel #9 — low rating: note + „Załatwione”
 
-Status: Metricool DRAFT (id 413649019, uuid 3394099193949667502), waiting for Toko's yes. Made by Content Studio 2 Nov. Type: REEL (not TRIAL_REEL). Moved from the planned Thu 5 to Fri 6 so it doesn't sit the day after the Wed „Niska ocena” carousel and gets the week's best slot (Fri 10:00).
+Status: Metricool DRAFT (id 415317561, was 413649019, uuid 3394099193949667502), waiting for Toko's yes. Made by Content Studio 2 Nov. Type: REEL (not TRIAL_REEL). Moved from the planned Thu 5 to Fri 6 so it doesn't sit the day after the Wed „Niska ocena” carousel and gets the week's best slot (Fri 10:00).
+Re-edited 3 Nov: footage now full width under a headline band (was a small card); new video + cover uploaded to the Metricool draft, still draft.
 Visual: 8.7 s from raw/reel9 (b-note-done 0–5.2 s, d-resolved-in-list 0–2 s; demo data) + 1.5 s end card. Motion from 0.3 s (tap „Dodaj notatkę”, typing).
 Overlays: „Gość dał 2★. Co dalej? / Masz to w „Wymaga reakcji”” → „Zapisz, co zrobiliście / Krótka notatka przy ocenie” → „Jeden tap: Załatwione / Znika z listy spraw do reakcji” → „Notatka zostaje przy ocenie / Widać, co i jak zostało załatwione” → end card „Niska ocena? Załatwione.” + tapmi.pl.
 Story: stories/2026-11-week45/tapmi-story-reel9.png (Toko posts ~10:15 with music).

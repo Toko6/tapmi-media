@@ -259,3 +259,14 @@
 
 ### What works / doesn't (so far)
 - Unchanged: reach only moves when a Reel hits its day-2 non-follower test; empty days → 0 reach (Mon 2 = 0). Reel #8 Wed + Reel #9 Fri (if approved) = two non-follower tests this week.
+
+## 2026-11-04 (Wed, ~17:55, Daily Growth Check)
+- Reel #8 (PL/UK/EN) PUBLISHED 10:00 (https://www.instagram.com/reel/DfUGADbm4yX/). ~8 h in: 12 views / 10 reach, **40% past 3 s**, avg 2.7 s — best day-1 hold since Reel #2 (full-width footage + concrete owner question opening). Non-follower test (day 2) still to come.
+- Older posts flat (Reel #6 47/43/30.2%, Reel #7 69/55/12.1%, carousels 13–22 views). Account Tue 3 Nov: 0 reach (5th day without a post before today). Followers 7 (14 days unchanged). 0 saves/shares/comments. Stories: Metricool 0 in last 7 days.
+- Queue 5–18 Nov: Thu 5 Jak działa, Fri 6 Reel #9, Sat 7 Niska ocena — all still draft:true (no yes yet). Nothing after Sat 7 (Content Studio Mon 9).
+- Best time 5–11 Nov unchanged: 10:00 best every day (Thu 6275, Fri 6734, Sat 3409, Mon 5528).
+- Changed: nothing moved (no approved posts in queue; drafts already at 10:00, ≥24 h apart). Story images exist for all three drafts. No new drafts (3 waiting). Asked Toko for a yes on the 3 drafts (Thu 5 is tomorrow 10:00).
+- Tomorrow: if Thu 5 still draft after 10:00, shift it to the next free weekday (Mon 9 / Tue 10 slot vs Content Studio plan), keep draft.
+
+### What works / doesn't (so far)
+- Full-width footage layout (Toko's 3 Nov rule) + UI-motion opening: Reel #8 40% day-1 hold vs Reel #6 50% / Reel #7 12%. Keep this template for Reels #9–#11.

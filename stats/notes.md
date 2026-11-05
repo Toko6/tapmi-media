@@ -270,3 +270,12 @@
 
 ### What works / doesn't (so far)
 - Full-width footage layout (Toko's 3 Nov rule) + UI-motion opening: Reel #8 40% day-1 hold vs Reel #6 50% / Reel #7 12%. Keep this template for Reels #9–#11.
+
+## 2026-11-05 (Thu, ~17:55, Daily Growth Check)
+- No post today: Thu 5 „Jak działa” slot passed as draft (no yes). Reel #8 day 2: 19 views / 17 reach, 37.5% past 3 s, avg 3.2 s (best avg watch so far; up from 12/10). Non-follower push small so far (17 reach vs Reel #7 55 on day 2). Other posts flat. Account Wed 4: 18 views / 16 reach (from 0 on Tue). Followers 7 (15 days). 0 saves/shares/comments. Stories 0.
+- Queue 6–19 Nov: Fri 6 Reel #9 (draft), Sat 7 Niska ocena (draft), nothing approved. Best time 6–12 Nov unchanged: 10:00 best (Fri 6734, Sat 3409, Mon 5528, Tue 4942, Wed 6506, Thu 6275).
+- Changed: moved „Jak działa” draft Thu 5 → **Mon 9 10:00** (new id 417975774, uuid -1654493065736927340, still draft). Content Studio's planned Mon 9 tips carousel should go to Wed 11. Story image exists (stories/2026-10-week44/tapmi-story-jak-dziala.png). No new drafts (3 waiting).
+- Tomorrow: if Fri 6 Reel #9 still draft after 10:00, move it to next free weekday (Tue 10 is Reel #10 plan → Wed 11/Thu 12), keep draft.
+
+### What works / doesn't (so far)
+- Reel #8 holds 37.5% past 3 s and 3.2 s avg on day 2 — full-width template confirmed (vs 12% for text openings). Approval lag remains the bottleneck: Thu 5 is the 4th empty weekday this week-ish.

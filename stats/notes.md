@@ -279,3 +279,12 @@
 
 ### What works / doesn't (so far)
 - Reel #8 holds 37.5% past 3 s and 3.2 s avg on day 2 — full-width template confirmed (vs 12% for text openings). Approval lag remains the bottleneck: Thu 5 is the 4th empty weekday this week-ish.
+
+## 2026-11-06 (Fri, ~17:55, Daily Growth Check)
+- No post today: Fri 6 Reel #9 slot passed as draft (no yes). Reel #8 flat since day 2 (19 views / 17 reach, 37.5% past 3 s, avg 3.2 s) — non-follower test ended small. All other posts flat. Account Thu 5: 1 view / 1 reach. Followers 7 (16 days). 0 saves/shares/comments. Stories: 0 in Metricool.
+- Queue 6–20 Nov: Sat 7 Niska ocena (draft), Mon 9 Jak działa (draft); nothing approved. Best time 7–13 Nov unchanged: 10:00 best every day (Fri 6734, Wed 6506, Thu 6275, Mon 5528, Tue 4942, Sat 3409, Sun 2582).
+- Changed: moved Reel #9 draft Fri 6 → **Tue 10 10:00** (new id 419163339, uuid 3394099193949667502, still draft). Reel #10 (planned Tue 10, not built yet) → Content Studio should slot it Wed 11/Thu 12; tips carousel then Thu 12. Story images already exist for all three drafts. No new drafts (3 waiting, queue covers to Tue 10; Content Studio runs Mon 9). No message to Toko (only drafts already asked about; nothing new for him).
+- Tomorrow: if Sat 7 Niska ocena still draft after 10:00, move it to next free weekday (Wed 11 or later), keep draft.
+
+### What works / doesn't (so far)
+- Unchanged: reach only moves during a Reel's 24–48 h test; empty days → ~0 (Thu 5 = 1 reach). Approval lag remains the bottleneck — 5 of the last 8 weekday slots empty.

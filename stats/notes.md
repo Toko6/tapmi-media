@@ -288,3 +288,11 @@
 
 ### What works / doesn't (so far)
 - Unchanged: reach only moves during a Reel's 24–48 h test; empty days → ~0 (Thu 5 = 1 reach). Approval lag remains the bottleneck — 5 of the last 8 weekday slots empty.
+
+## 2026-11-07 (Sat, ~17:55, Daily Growth Check)
+- No post today: Sat 7 „Niska ocena” slot passed as draft (no yes). Everything flat: Reel #8 19/17, 37.5%, 3.2 s; Reel #6 47/43; carousels 13–22 views. Account Fri 6: 0 views / 0 reach. Followers 7 (17 days). 0 saves/shares/comments. Stories 0 in Metricool (7 days).
+- Queue 7–21 Nov: Mon 9 Jak działa, Tue 10 Reel #9 — both draft; nothing approved. Best time 8–14 Nov unchanged: 10:00 best every day (Fri 6734, Wed 6506, Thu 6275, Mon 5528, Tue 4942, Sat 3409, Sun 2582).
+- Changed: moved „Niska ocena” draft Sat 7 → **Wed 11 10:00** (new id 420090448, uuid 8086480056947527516, still draft). Content Studio (Mon 9): Reel #10 → Thu 12, Reel #11 → Fri 13, tips carousel after. Story images exist for all three drafts. No new drafts (queue covers Mon–Wed). Reminded Toko: yes needed before Mon 10:00.
+
+### What works / doesn't (so far)
+- Unchanged. 3 days with 0–1 reach in a row (Thu–Sat): without a post the account is invisible. Approval lag = the only bottleneck; 6 of the last 9 slots empty.

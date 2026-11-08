@@ -296,3 +296,12 @@
 
 ### What works / doesn't (so far)
 - Unchanged. 3 days with 0–1 reach in a row (Thu–Sat): without a post the account is invisible. Approval lag = the only bottleneck; 6 of the last 9 slots empty.
+
+## 2026-11-08 (Sun, ~17:55, Daily Growth Check)
+- No post (Sunday, rest day). Everything flat: Reel #8 19/17, 37.5%, avg 3.5 s; Reel #6 47/43; Reel #7 69/55. Account Sat 7: 0 views / 0 reach. Followers 7 (18 days, 0 gained). 0 saves/shares/comments. Stories 0.
+- Queue 8–22 Nov: Mon 9 Jak działa, Tue 10 Reel #9, Wed 11 Niska ocena — all still draft, nothing approved, nothing to move. Best time 9–15 Nov unchanged: 10:00 best every day (Fri 6734, Wed 6506, Thu 6275, Mon 5528, Tue 4942, Sat 3409, Sun 2582).
+- Changed: nothing. Story images exist for all three drafts. No new drafts (queue covers Mon–Wed; Content Studio builds Reels #10/#11 Mon 9 08:45 and asks Toko for a batch yes). No message to Toko (reminded yesterday; Content Studio messages him tomorrow morning).
+- Tomorrow: if Mon 9 still draft after 10:00, move it to next free weekday (Thu 12+ depending on Content Studio's slots), keep draft.
+
+### What works / doesn't (so far)
+- Unchanged. 4 days in a row at 0–1 reach. Approval lag = the only bottleneck.

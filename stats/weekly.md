@@ -103,3 +103,31 @@ What to change (week 2–8 Nov):
 - Change of creatives based on this week: A) Reel #6 comment search (best hold on non-followers: 30% past 3 s, 43 reach); B) Reel #2 „Gość ocenia w 5 sekund” (42.9%). Reel #3 dropped (20%). Re-check Reel #8/#9 after their day-2 test; swap in if either beats 30%.
 - Ad copy A (Reel #6): „Ktoś narzekał na pierogi? W panelu TapMi wpisujesz jedno słowo i widzisz wszystkie komentarze gości z nim, z gwiazdkami i imieniem osoby z obsługi. Prowadzisz lokal we Wrocławiu? Napisz „DEMO”, pokażemy panel na przykładowych danych.” CTA: Wyślij wiadomość.
 - Ad copy B unchanged (proposal #1). Targeting, budget (suggest 25 zł/day × 14 days ≈ 350 zł, Toko decides), stop rule and prerequisites unchanged. Earliest start: 2–3 days after the FB Page is linked and payment method set.
+
+## Week 2–8 Nov 2026 (Content Studio, Mon 9 Nov)
+
+Numbers (Metricool, lifetime as of 9 Nov ~8:45):
+| Post | Type | Views | Reach | Likes | Com. | Saves | Shares | 3-s rate | Avg watch |
+|---|---|---|---|---|---|---|---|---|---|
+| Reel #8 PL/UK/EN (Wed 4) | Reel | 19 | 17 | 0 | 0 | 0 | 0 | 37.5% | 3.5 s / 8.8 |
+- Only 1 feed post published (Wed 4). Mon 2, Tue 3, Thu 5, Fri 6, Sat 7 slots passed as unapproved drafts. Account reach: Wed 4 16, every other day 0–1. Followers 7 → 7 (18 days without a new follower). Stories: Metricool 0.
+- Goals: posts/week 1 ❌ (target 3–4) · Reels 35%+ past 3 s ✅ (Reel #8 37.5%, first Reel to hit it on a non-trivial sample) · saves+shares 0 ❌ · owner conversations 0 ❌ · demo requests 0 ❌.
+
+What worked:
+- Full-width layout + UI motion in second 1 + concrete owner question: Reel #8 37.5% past 3 s, 3.5 s avg watch (best avg so far). Template confirmed.
+
+What didn't:
+- Approval lag: 5 of 6 slots empty. Without a post the account is invisible (0–1 reach/day). This is the only real bottleneck now.
+- Reel #8's non-follower push was small (17 reach vs 43–55 for Reels #6/#7) — one Reel a week is not enough signal for Instagram.
+
+What to change (week 9–15 Nov):
+1. One post every weekday Mon–Fri 10:00 (page stalled): Mon 9 „Jak działa” carousel, Tue 10 Reel #9, Wed 11 „Niska ocena” carousel, Thu 12 Reel #10 (average + trend), Fri 13 Reel #11 („Do przeczytania”). Mon 16: carousel „Kto jest lepszy?” (fair waiter comparison, per-waiter angle, save bait).
+2. All 3 new Reels use the full-width template, motion from 0.3 s.
+3. Ask Toko for ONE batch yes for all 6 drafts; unapproved drafts keep moving to the next free weekday (Daily Growth Check).
+4. Footage requested: Reel #12 (guest flow: 5★ and 2★ both see the Google button, Wed 18) and Reel #13 (tap a waiter's name → only their ratings, „Za mało ocen”, Fri 20).
+
+### Paid ads — update #2 (9 Nov)
+- Still no decision; blocker unchanged = no Facebook Page linked to @tapmi.app (+ Meta payment method, tested tapmi.pl demo path).
+- Creative change: A) Reel #6 comment search (30.2% past 3 s, 43 non-follower reach); B) Reel #8 PL/UK/EN — now replaces Reel #2 (37.5% past 3 s, 3.5 s avg on 19 views vs Reel #2's 13 views). Swap in Reel #10/#11 if one beats 35% after its day-2 test.
+- Ad copy B (Reel #8): „Gość z Ukrainy albo turysta nie mówi po polsku? Strona oceny sama otwiera się w języku jego telefonu (PL/UK/EN). Ty widzisz ocenę w panelu od razu. Prowadzisz lokal we Wrocławiu? Napisz „DEMO”, pokażemy panel na przykładowych danych.” CTA: Wyślij wiadomość.
+- Suggest a smaller first step since the account is tiny: 20 zł/day × 7 days ≈ 140 zł (A 12 zł + B 8 zł), then decide on week 2. Targeting unchanged (Wrocław +20 km, 25–55, gastronomy/restaurant/small business owners, Polish). Objective Engagement → Messages. Stop rule: <2 owner conversations in 7 days → stop, change creative. Toko decides and launches.

@@ -305,3 +305,12 @@
 
 ### What works / doesn't (so far)
 - Unchanged. 4 days in a row at 0–1 reach. Approval lag = the only bottleneck.
+
+## 2026-11-09 (Mon, ~17:55, Daily Growth Check)
+- No post today: Mon 9 „Jak działa” slot passed as draft (batch yes asked 08:55, not given yet). Everything flat: Reel #8 19/17, 37.5%, avg 3.5 s; Reel #6 47/43; Reel #7 69/55. Account Sun 8: 0 views / 0 reach. Followers 7 (19 days, 0 gained). 0 saves/shares/comments. Stories 0.
+- Queue 9–23 Nov: Tue 10 Reel #9, Wed 11 Niska ocena, Thu 12 Reel #10, Fri 13 Reel #11, Mon 16 Kto jest lepszy — all draft. Best time 10–17 Nov unchanged: 10:00 best every day (Fri 6734, Wed 6506, Thu 6275, Mon 5528, Tue 4942, Sat 3409, Sun 2582).
+- Changed: moved „Jak działa” draft Mon 9 → **Tue 17 10:00** (first free weekday; new id 422112411, uuid -1654493065736927340, still draft). Story image exists (stories/2026-10-week44/tapmi-story-jak-dziala.png). No new drafts (queue covers to Tue 17). No message to Toko (Content Studio asked for the batch yes this morning; nothing new for him).
+- Tomorrow: if Tue 10 Reel #9 still draft after 10:00, move it to next free weekday (Wed 18 is planned for Reel #12 → consider Thu 19 or Sat 14), keep draft.
+
+### What works / doesn't (so far)
+- Unchanged. 5 days in a row at 0–1 reach. Approval lag = the only bottleneck; queue is full (6 drafts) but nothing goes live without the yes.

@@ -314,3 +314,12 @@
 
 ### What works / doesn't (so far)
 - Unchanged. 5 days in a row at 0–1 reach. Approval lag = the only bottleneck; queue is full (6 drafts) but nothing goes live without the yes.
+
+## 2026-11-10 (Tue, ~17:55, Daily Growth Check)
+- No post today: Tue 10 Reel #9 slot passed as draft (batch yes asked 9 Nov 08:55, still none). Reel #8 20/18, 35.3% past 3 s, avg 3.3 s (+1 view in 2 days). Account Mon 9: 2 views / 1 reach. Followers 7 (20 days, 0 gained). 0 saves/shares/comments. Stories 0.
+- Queue 10–24 Nov: Wed 11 Niska ocena, Thu 12 Reel #10, Fri 13 Reel #11, Mon 16 Kto jest lepszy, Tue 17 Jak działa — all draft. Best time 16–22 Nov unchanged: 10:00 best every day (Fri 6734, Wed 6506, Thu 6275, Mon 5528, Tue 4942, Sat 3409, Sun 2582).
+- Changed: moved Reel #9 draft Tue 10 → **Thu 19 10:00** (first free weekday; Wed 18 / Fri 20 held for Reels #12/#13; new id 423409410, uuid 3394099193949667502, still draft). Story image exists (stories/2026-11-week45/tapmi-story-reel9.png). No new drafts (queue covers to Thu 19). No message to Toko (nothing new for him; Content Studio's batch-yes request still open).
+- Tomorrow: if Wed 11 still draft after 10:00, move it to next free slot (Sat 14 or Mon 23), keep draft.
+
+### What works / doesn't (so far)
+- Unchanged. 6 days in a row at 0–2 reach. Approval lag = the only bottleneck.

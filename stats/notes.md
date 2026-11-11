@@ -323,3 +323,12 @@
 
 ### What works / doesn't (so far)
 - Unchanged. 6 days in a row at 0–2 reach. Approval lag = the only bottleneck.
+
+## 2026-11-11 (Wed, ~17:55, Daily Growth Check)
+- No post today: Wed 11 „Niska ocena” slot passed as draft (batch yes asked 9 Nov 08:55, still none). Reel #8 flat 20/18, 35.3%, avg 3.3 s. Account Tue 10: 0 views / 0 reach. Followers 7 (21 days, 0 gained). 0 saves/shares/comments. Stories 0.
+- Queue 11–25 Nov: Thu 12 Reel #10, Fri 13 Reel #11, Mon 16 Kto jest lepszy, Tue 17 Jak działa, Thu 19 Reel #9 — all draft. Best time 14–20 Nov unchanged: 10:00 best every day (Fri 6734, Wed 6506, Thu 6275, Mon 5528, Tue 4942, Sat 3409, Sun 2582).
+- Changed: moved „Niska ocena” draft Wed 11 → **Sat 14 10:00** (first free slot; Wed 18 / Fri 20 held for Reels #12/#13; new id 424676614, uuid 8086480056947527516, still draft). Story image exists (stories/2026-11-week45/tapmi-story-niska-ocena.png). No new drafts (queue covers to Thu 19). Short nudge to Toko for the batch yes (Thu 12 Reel #10 is next).
+- Tomorrow: if Thu 12 Reel #10 still draft after 10:00, move it to next free slot (Sat 21 or Mon 23), keep draft.
+
+### What works / doesn't (so far)
+- Unchanged. 7 days in a row at 0–2 reach. Approval lag = the only bottleneck.

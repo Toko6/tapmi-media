@@ -332,3 +332,12 @@
 
 ### What works / doesn't (so far)
 - Unchanged. 7 days in a row at 0–2 reach. Approval lag = the only bottleneck.
+
+## 2026-11-12 (Thu, ~17:55, Daily Growth Check)
+- No post today: Thu 12 Reel #10 slot passed as draft (batch yes asked 9 Nov, nudged 11 Nov, still none). Reel #8 flat 20/18, 35.3%, avg 3.3 s. Account Wed 11: 0 views / 0 reach. Followers 7 (22 days, 0 gained). 0 saves/shares/comments. Stories 0.
+- Queue 12–26 Nov: Fri 13 Reel #11, Sat 14 Niska ocena, Mon 16 Kto jest lepszy, Tue 17 Jak działa, Thu 19 Reel #9 — all draft. Best time 20–23 Nov unchanged: 10:00 best (Fri 6734, Mon 5528, Sat 3409, Sun 2582).
+- Changed: moved Reel #10 draft Thu 12 → **Sat 21 10:00** (first free slot; Wed 18 / Fri 20 held for Reels #12/#13; new id 425945124, uuid 96319625524236086, still draft). Story image exists (stories/2026-11-week46/tapmi-story-reel10.png). No new drafts (queue covers to Sat 21). No message to Toko (nudge sent yesterday; nothing new for him).
+- Tomorrow: if Fri 13 Reel #11 still draft after 10:00, move it to next free slot (Mon 23), keep draft.
+
+### What works / doesn't (so far)
+- Unchanged. 8 days in a row at 0–2 reach. Approval lag = the only bottleneck.

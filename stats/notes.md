@@ -350,3 +350,12 @@
 
 ### What works / doesn't (so far)
 - Unchanged. 9 days in a row at 0–2 reach. Approval lag = the only bottleneck.
+
+## 2026-11-14 (Sat, ~17:55, Daily Growth Check)
+- No post today: Sat 14 „Niska ocena” slot passed as draft (batch yes asked 9 Nov, nudged 11 + 13 Nov, still none). Reel #8 flat 20/18, 35.3%, avg 3.3 s. Account Fri 13: 0 views / 0 reach. Followers 7 (24 days, 0 gained). 0 saves/shares/comments. Stories 0.
+- Queue 14–28 Nov: Mon 16 Kto jest lepszy, Tue 17 Jak działa, Thu 19 Reel #9, Sat 21 Reel #10, Mon 23 Reel #11 — all draft. Best time 24–28 Nov unchanged: 10:00 best every day (Fri 6734, Wed 6506, Thu 6275, Tue 4942, Sat 3409).
+- Changed: moved „Niska ocena” draft Sat 14 → **Tue 24 10:00** (first free slot; Wed 18 / Fri 20 held for Reels #12/#13; new id 428162424, uuid 8086480056947527516, still draft). Story image exists (stories/2026-11-week45/tapmi-story-niska-ocena.png). No new drafts (queue covers to Tue 24; Content Studio runs Mon 16). No message to Toko (nudged yesterday; Content Studio asks Monday).
+- Tomorrow (Sun): rest day, nothing scheduled. Mon 16: if „Kto jest lepszy” still draft after 10:00, move to next free slot (Wed 25), keep draft.
+
+### What works / doesn't (so far)
+- Unchanged. 10 days in a row at 0–2 reach. Approval lag = the only bottleneck.

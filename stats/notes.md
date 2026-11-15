@@ -359,3 +359,12 @@
 
 ### What works / doesn't (so far)
 - Unchanged. 10 days in a row at 0–2 reach. Approval lag = the only bottleneck.
+
+## 2026-11-15 (Sun, ~17:55, Daily Growth Check)
+- Toko approved all 6 queued posts today (new 24 h no-objection rule). „Niska ocena” carousel PUBLISHED 13:00 (https://www.instagram.com/p/DfwvTz9iB8J/) — ends the 10-day gap; no metrics in Metricool yet (lag). Reel #8 flat 20/18, 35.3%, avg 3.3 s. Account Sat 14: 0 views / 0 reach. Followers 7. Stories 0.
+- Queue 15–29 Nov (all SCHEDULED, 10:00): Mon 16 Kto jest lepszy, Tue 17 Jak działa, Thu 19 Reel #9, Sat 21 Reel #10, Mon 23 Reel #11. No drafts in Metricool. Gaps Wed 18 / Fri 20 held for Reels #12/#13 (Content Studio Mon 16). Best time 16–22 Nov unchanged: 10:00 best every day.
+- Changed: nothing (no drafts to approve, slots already at the best hour, ≥20 h apart). Story images exist for every upcoming post. No new drafts (queue covers to Mon 23). No message to Toko (nothing new for him).
+- Tomorrow: log day-1 numbers of „Niska ocena”; check Content Studio drafts for Wed 18 / Fri 20 and record "sent to Toko" times.
+
+### What works / doesn't (so far)
+- Approval bottleneck removed by the 24 h rule. Next question: does a daily cadence lift account reach above 0–2? Watch Mon 16–Sat 21.

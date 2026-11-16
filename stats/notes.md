@@ -368,3 +368,12 @@
 
 ### What works / doesn't (so far)
 - Approval bottleneck removed by the 24 h rule. Next question: does a daily cadence lift account reach above 0–2? Watch Mon 16–Sat 21.
+
+## 2026-11-16 (Mon, ~17:55, Daily Growth Check)
+- Mon 16 „Kto jest lepszy?” carousel PUBLISHED 10:00 (https://www.instagram.com/p/Dfy_sO7CIYQ/); no metrics in Metricool yet (lag). „Niska ocena” (Sun 15) day 1: 19 views / 3 reach / 1 like, 0 saves/shares/comments — follower-only reach, as with every carousel. Reel #8 flat 20/18, 35.3%, avg 3.2 s. Account Sun 15: 19 views / 3 reach (first non-zero day since 9 Nov). Followers 7. Stories 0.
+- Queue 16–30 Nov (10:00): Tue 17 Jak działa (sched) · Wed 18 Reel #12 (draft) · Thu 19 Reel #9 (sched) · Fri 20 Reel #13 (draft) · Sat 21 Reel #10 (sched) · Mon 23 Reel #11 (sched) · Tue 24 Odprawa (draft). Best time 17–23 Nov: 10:00 best every day (Fri 6734, Wed 6506, Thu 6275).
+- Changed: nothing. The 3 drafts were sent to Toko 16 Nov 08:53 → eligible for draft:false after 17 Nov 08:53 (tomorrow's run). Story images exist for every upcoming post. Queue covers to Tue 24 → no new drafts. No message to Toko.
+- Tomorrow: approve the 3 drafts (unless Toko said no), log day-1 of „Kto jest lepszy”.
+
+### What works / doesn't (so far)
+- Carousels: 3–6 reach (followers only), 0 saves so far even with "Zapisz 🔖" CTA. Reels remain the only non-follower reach. Daily cadence restarted 15 Nov — judge on Sat 21.

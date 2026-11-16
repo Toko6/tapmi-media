@@ -131,3 +131,28 @@ What to change (week 9–15 Nov):
 - Creative change: A) Reel #6 comment search (30.2% past 3 s, 43 non-follower reach); B) Reel #8 PL/UK/EN — now replaces Reel #2 (37.5% past 3 s, 3.5 s avg on 19 views vs Reel #2's 13 views). Swap in Reel #10/#11 if one beats 35% after its day-2 test.
 - Ad copy B (Reel #8): „Gość z Ukrainy albo turysta nie mówi po polsku? Strona oceny sama otwiera się w języku jego telefonu (PL/UK/EN). Ty widzisz ocenę w panelu od razu. Prowadzisz lokal we Wrocławiu? Napisz „DEMO”, pokażemy panel na przykładowych danych.” CTA: Wyślij wiadomość.
 - Suggest a smaller first step since the account is tiny: 20 zł/day × 7 days ≈ 140 zł (A 12 zł + B 8 zł), then decide on week 2. Targeting unchanged (Wrocław +20 km, 25–55, gastronomy/restaurant/small business owners, Polish). Objective Engagement → Messages. Stop rule: <2 owner conversations in 7 days → stop, change creative. Toko decides and launches.
+
+## Week 9–15 Nov 2026 (Content Studio, Mon 16 Nov)
+
+Numbers (Metricool, as of 16 Nov ~8:45):
+| Post | Type | Views | Reach | Likes | Com. | Saves | Shares | 3-s rate | Avg watch |
+|---|---|---|---|---|---|---|---|---|---|
+| „Niska ocena” carousel (Sun 15, 13:00) | Carousel | – | – | – | – | – | – | – | – (no data in Metricool yet, lag) |
+| Reel #8 PL/UK/EN (Wed 4, lifetime) | Reel | 20 | 18 | 0 | 0 | 0 | 0 | 35.3% | 3.3 s / 8.8 |
+- 1 feed post published (Sun 15). Mon 9–Sat 14 all slots passed as unapproved drafts → account reach 0–2/day for 10 days. Followers 7 (no change since ~21 Oct). Stories 0. 0 saves/shares/comments, 0 conversations, 0 demo requests.
+- Goals: posts/week 1 ❌ · Reels 35%+ ✅ only Reel #8 (no new Reel) · saves+shares 0 ❌ · owner conversations 0 ❌ · demo requests 0 ❌.
+
+What worked:
+- Toko's new 24 h no-objection rule (15 Nov) unblocked the queue: 5 posts scheduled Mon 16–Mon 23, plus 2 new Reels + 1 carousel as drafts → one post every day Mon 16–Sat 21.
+
+What didn't:
+- Approval lag cost a second full week. Nothing else can be judged until posts actually go out.
+
+What to change (week 16–22 Nov):
+1. Daily cadence 10:00: Mon fair-waiter carousel · Tue „Jak działa” · Wed Reel #12 (Google for every guest) · Thu Reel #9 · Fri Reel #13 (per-waiter view) · Sat Reel #10. Mon 23 Reel #11, Tue 24 carousel „Odprawa w 10 minut”.
+2. Reels #12/#13 kept short (7.1–7.2 s), UI motion from 0.0–0.4 s, hook band over the action — same template as Reel #8 (best hold).
+3. Judge day-2 numbers of Reels #9/#10/#12/#13 on Mon 23: which one beats 35% past 3 s → candidate for the paid test.
+4. Footage requested: Reel #14 (star + comment filters, Wed 25) and Reel #15 („Przejścia do opinii wg oceny”, Fri 27).
+
+### Paid ads — no new proposal (16 Nov)
+- Nothing new to propose: still blocked on the Facebook Page + payment method; no new Reel data since 9 Nov. Proposal/update #2 (9 Nov) stands. Revisit Mon 23 with Reels #9–#13 numbers.

@@ -377,3 +377,12 @@
 
 ### What works / doesn't (so far)
 - Carousels: 3–6 reach (followers only), 0 saves so far even with "Zapisz 🔖" CTA. Reels remain the only non-follower reach. Daily cadence restarted 15 Nov — judge on Sat 21.
+
+## 2026-11-17 (Tue, ~17:55, Daily Growth Check)
+- Tue 17 „Jak działa TapMi” PUBLISHED 10:00 (https://www.instagram.com/p/Df1kfXgCMMP/): 9 views / 4 reach / 2 likes by evening. „Kto jest lepszy?” (Mon 16) day 1: 11 views / 4 reach / 1 like. „Niska ocena” flat 19/3/1. Reel #8 flat 20/18, 35.3%, avg 3.2 s. Account Mon 16: 11 views / 4 reach. Followers 7. Stories 0 (none posted by Toko yet). 0 saves/shares/comments.
+- Changed: no objection from Toko to the 3 drafts sent 16 Nov 08:53 → set draft:false (content identical): Wed 18 Reel #12 (new id 431733847), Fri 20 Reel #13 (431733878), Tue 24 „Odprawa” (431733912). Queue now all SCHEDULED at 10:00: Wed 18 · Thu 19 · Fri 20 · Sat 21 · Mon 23 · Tue 24. Best time 18–24 Nov: 10:00 best every day.
+- Story images exist for all of these (week45/46/47; sent to Toko 16 Nov). Queue covers to Tue 24 → no new drafts (Content Studio Mon 23 fills Wed 25+). No message to Toko.
+- Tomorrow: Reel #12 day-0 numbers; first Reel since 4 Nov → watch non-follower reach + 3-s rate.
+
+### What works / doesn't (so far)
+- Carousels stay at 3–4 reach (followers only), likes 1–2, still 0 saves. Daily cadence lifted account days from 0 to 4 reach — still follower-only. The 4 Reels Wed–Sat are the real test for non-follower reach.

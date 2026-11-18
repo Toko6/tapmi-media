@@ -386,3 +386,12 @@
 
 ### What works / doesn't (so far)
 - Carousels stay at 3–4 reach (followers only), likes 1–2, still 0 saves. Daily cadence lifted account days from 0 to 4 reach — still follower-only. The 4 Reels Wed–Sat are the real test for non-follower reach.
+
+## 2026-11-18 (Wed, ~17:55, Daily Growth Check)
+- Wed 18 Reel #12 „Przy 2★ też jest Google” PUBLISHED 10:00 (https://www.instagram.com/reel/Df4JOqEDCLL/). Day 0 (~8 h): 4 views / 4 reach, 25% past 3 s, avg 2.1 s (7.2 s Reel) — weak start, below Reel #8 (35%). „Jak działa” day 1: 13 views / 6 reach / 2 likes (best carousel reach since Oct). „Kto jest lepszy?” 16 / 5 / 1. „Niska ocena” flat 19 / 3 / 1. Reel #8 flat. Account Tue 17: 17 views / 5 reach. Followers 7. Stories 0 (Toko hasn't posted any of the week47 images yet, per Metricool). Still 0 saves/shares/comments.
+- Queue (all SCHEDULED, 10:00 = best hour every day): Thu 19 Reel #9 · Fri 20 Reel #13 · Sat 21 Reel #10 · Mon 23 Reel #11 · Tue 24 Odprawa. No drafts. raw/reel14 + reel15 delivered 17 Nov → Content Studio Mon 23 can build Reels #14/#15 for Wed 25 / Fri 27.
+- Changed: nothing (daily cadence already, best slot, no drafts, Story images exist for every upcoming post, queue lasts 6 days). No message to Toko.
+- Tomorrow: Reel #12 day 1 (does Instagram test it beyond followers?), Reel #9 day 0.
+
+### What works / doesn't (so far)
+- Daily cadence: account reach 4–6/day, followers only. Reel #12 opened at 25% past 3 s — if it stays <30% on day 1, the 2-clip guest-page opening (rating screen) holds worse than live dashboard motion (#6/#8). Compare with #9/#13 (dashboard openings).

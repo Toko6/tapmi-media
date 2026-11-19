@@ -395,3 +395,14 @@
 
 ### What works / doesn't (so far)
 - Daily cadence: account reach 4–6/day, followers only. Reel #12 opened at 25% past 3 s — if it stays <30% on day 1, the 2-clip guest-page opening (rating screen) holds worse than live dashboard motion (#6/#8). Compare with #9/#13 (dashboard openings).
+
+## 2026-11-19 (Thu, ~17:55, Daily Growth Check)
+- Thu 19 Reel #9 „Gość dał 2★. Co dalej?” PUBLISHED 10:00 (https://www.instagram.com/reel/Df6t7lvnC6I/). Day 0 (~8 h): **170 views / 60 reach, 76% past 3 s, avg 5.5 s (8.7 s Reel)** — best 3-s rate ever (prev. best Reel #2 43%) and best day-0 reach since Reel #1. 0 likes/saves/shares/comments. Opening: live dashboard (note typed + „Załatwione” tap) with a concrete owner question.
+- Reel #12 day 1: 7 views / 7 reach, 14.3% past 3 s, avg 1.5 s → Instagram didn't push it. Guest-page rating-screen opening holds worst of the full-width Reels.
+- Carousels flat: „Jak działa” 13/6/2, „Kto jest lepszy?” 16/5/1, „Niska ocena” 19/3/1. Account Wed 18: 8 views / 8 reach. Followers 7 (no gain yet from #9). Stories 0 in Metricool.
+- Queue (all SCHEDULED, 10:00 = best hour every day; Fri 6734, Wed 6506, Thu 6275, Mon 5528, Tue 4942, Sat 3409): Fri 20 Reel #13 · Sat 21 Reel #10 · Mon 23 Reel #11 · Tue 24 Odprawa. No drafts.
+- Changed: nothing (page not stalled — Reel #9 is climbing; daily cadence, best slot; Story images exist for all upcoming posts; queue lasts 5 days, Content Studio fills Wed 25+ on Mon 23). No message to Toko.
+- Tomorrow: Reel #9 day 1 (does it keep climbing / convert any followers?), Reel #13 day 0.
+
+### What works / doesn't (so far)
+- Strongest signal yet: dashboard-action opening + problem question („Gość dał 2★. Co dalej?”) → 76% past 3 s. Guest-page openings (#12: 14–25%) and text/email openings (#5, #7) lose viewers. Next Reels (#14/#15) should open on an owner action in the dashboard. Reel #9 = lead candidate for the paid test (Mon 23 review).

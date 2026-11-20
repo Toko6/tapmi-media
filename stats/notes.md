@@ -406,3 +406,13 @@
 
 ### What works / doesn't (so far)
 - Strongest signal yet: dashboard-action opening + problem question („Gość dał 2★. Co dalej?”) → 76% past 3 s. Guest-page openings (#12: 14–25%) and text/email openings (#5, #7) lose viewers. Next Reels (#14/#15) should open on an owner action in the dashboard. Reel #9 = lead candidate for the paid test (Mon 23 review).
+
+## 2026-11-20 (Fri, ~17:55, Daily Growth Check)
+- Fri 20 Reel #13 „Kto ma najlepsze oceny?” PUBLISHED 10:00 (https://www.instagram.com/reel/Df9TDBijAbM/). Day 0 (~8 h): 7 views / 5 reach / 1 like, avg 3.4 s (7.1 s Reel), 3-s rate shows 0.0 (likely not computed yet by Metricool — re-check tomorrow).
+- Reel #9 day 1: 179 views / 136 reach (was 170/60 at day 0) — reach more than doubled; 3-s rate settled to 48.5% (from 76%), avg 5.5 s. Still best Reel since #1 and above the 35% goal. 0 likes/saves/shares/comments, followers still 7 → reach without conversion (no profile visits shown; CTA/hook gives no reason to follow).
+- Account Thu 19: 175 views / 136 reach — best day since Oct. Reel #12 flat 7/7, 14.3%. Carousels flat. Stories 0 in Metricool.
+- Queue (SCHEDULED, 10:00 = best hour every day: Fri 6734, Wed 6506, Thu 6275, Mon 5528, Tue 4942, Sat 3409, Sun 2582): Sat 21 Reel #10 · Mon 23 Reel #11 · Tue 24 Odprawa. No drafts. Runs out after Tue 24 (5 days) → Content Studio Mon 23 builds #14/#15 (footage delivered 17 Nov). If nothing is drafted by Mon 23 evening, Daily Growth Check drafts Wed 25.
+- Changed: nothing (not stalled; best slot; Story images exist for Sat/Mon/Tue posts). No message to Toko.
+
+### What works / doesn't (so far)
+- Reel #9 confirms: dashboard owner-action opening + problem question = non-follower reach (136) and 48% hold. But 0 follows/likes → add a reason to follow (series hook „Codziennie 1 funkcja / 1 sposób”, end card „Obserwuj, jutro: …”) in the next Reels — suggest to Content Studio. Reel #9 = paid-test lead candidate.

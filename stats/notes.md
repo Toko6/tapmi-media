@@ -416,3 +416,14 @@
 
 ### What works / doesn't (so far)
 - Reel #9 confirms: dashboard owner-action opening + problem question = non-follower reach (136) and 48% hold. But 0 follows/likes → add a reason to follow (series hook „Codziennie 1 funkcja / 1 sposób”, end card „Obserwuj, jutro: …”) in the next Reels — suggest to Content Studio. Reel #9 = paid-test lead candidate.
+
+## 2026-11-21 (Sat, ~18:00, Daily Growth Check)
+- Sat 21 Reel #10 „Średnia spada?” PUBLISHED 10:00 (https://www.instagram.com/reel/Df_3MMCihwX/). Day 0 (~8 h): 5 views / 4 reach, 25% past 3 s, avg 2.6 s (9.2 s Reel) — weak (Saturday, lowest weekday score 3409).
+- Reel #13 day 1: 12 views / 10 reach / 1 like, avg 2.1 s, 3-s rate still 0.0 in Metricool (not computed). Not pushed by Instagram.
+- Reel #9 flat at 179 / 136, 48.5%, avg 5.5 s (no growth day 2 → test ended). Reel #12 flat 7/7. Carousels not re-pulled (flat for days). Followers not re-pulled (posts/stories connectors skipped this run; 7 as of 20 Nov).
+- Queue: Mon 23 Reel #11 · Tue 24 Odprawa (both SCHEDULED 10:00). Best time 22–28 Nov: 10:00 best every day (Fri 6734, Wed 6506, Thu 6275, Mon 5528, Tue 4942, Sat 3409, Sun 2582). Sun 22 left empty (weekend low, nothing approved to move without emptying Mon).
+- Changed: queue ran out after Tue 24 → built **Reel #14 „22 oceny. Które czytać?”** (5.6 s, raw/reel14 a-filter-low-light, Reel #9-style dashboard-action opening) → Metricool DRAFT Wed 25 10:00 (id 436838851, uuid 7702207194983974779), sent to Toko 17:55 with Story stories/2026-11-week48/tapmi-story-reel14.png. Auto-approve Sun 22 after 17:55 unless he says no. Used LIGHT-mode clip: dark-mode active „Z komentarzem” chip is unreadable (app CSS bug, flagged to Toko).
+- Left for Content Studio Mon 23: Reel #15 (Fri 27), Thu 26 + Sat 28 fills.
+
+### What works / doesn't (so far)
+- Only Reel #9 got Instagram's non-follower push (136 reach, 48%). #10/#12/#13 stayed at 4–10 reach. Difference: #9's hook is a concrete problem moment („Gość dał 2★. Co dalej?”) + action; #10/#13 hooks are generic questions. Reel #14 tests a problem+number hook („22 oceny. Które czytać?”).

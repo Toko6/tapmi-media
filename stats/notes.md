@@ -427,3 +427,12 @@
 
 ### What works / doesn't (so far)
 - Only Reel #9 got Instagram's non-follower push (136 reach, 48%). #10/#12/#13 stayed at 4–10 reach. Difference: #9's hook is a concrete problem moment („Gość dał 2★. Co dalej?”) + action; #10/#13 hooks are generic questions. Reel #14 tests a problem+number hook („22 oceny. Które czytać?”).
+
+## 2026-11-22 (Sun, ~17:56, Daily Growth Check)
+- No post today (Sun, lowest best-time score). Reel #10 day 1: 17 views / 13 reach / 1 like, 23.1% past 3 s, avg 4.2 s (better watch time than #12/#13 but not pushed). Reel #13 day 2: 14 / 11, 9.1% past 3 s, avg 3.2 s — weakest hook. Reel #9 flat 181 / 137, 48.9%. Followers 7 (no change). Stories 0 in Metricool.
+- Account Sat 21: 19 views / 12 reach.
+- Changed: Reel #14 DRAFT (Wed 25 10:00) → SCHEDULED 17:55 (new id 437738795) after 24 h with no objection from Toko (sent Sat 21 17:55). Queue: Mon 23 Reel #11 · Tue 24 Odprawa · Wed 25 Reel #14, all 10:00 (best hour every day). Story images for all three already exist. Queue empties after Wed 25 → Content Studio Mon 23 08:45 fills Thu 26–Sat 28 (sent ~09:00 Mon → live-eligible Tue ~09:00), so no extra drafts from this run (would duplicate). If nothing is drafted by Mon evening, Daily Growth Check drafts Thu 26.
+- No message to Toko (nothing new to do; Stories + music for Mon–Wed already with him).
+
+### What works / doesn't (so far)
+- Generic-question hooks (#10 „Średnia spada?”, #13 „Kto ma najlepsze oceny?”) stay at 10–13 reach, 9–23% hold. Concrete problem moment (#9) still the only pattern Instagram pushed. Reel #14 („22 oceny. Które czytać?”) tests problem+number on Wed.

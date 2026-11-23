@@ -436,3 +436,13 @@
 
 ### What works / doesn't (so far)
 - Generic-question hooks (#10 „Średnia spada?”, #13 „Kto ma najlepsze oceny?”) stay at 10–13 reach, 9–23% hold. Concrete problem moment (#9) still the only pattern Instagram pushed. Reel #14 („22 oceny. Które czytać?”) tests problem+number on Wed.
+
+## 2026-11-23 (Mon, ~17:55, Daily Growth Check)
+- Mon 23 Reel #11 „Nie masz czasu czytać?” PUBLISHED 10:00 (https://www.instagram.com/reel/DgFBMWfiaQv/). Day 0 (~8 h): 34 views / 28 reach / 1 like, 23.3% past 3 s, avg 2.4 s (9.8 s Reel) — better day-0 reach than #10/#12/#13 (Monday 5528 slot) but hold is weak; generic-question hook again.
+- Reel #10 18/14 (21.4%), #13 15/12 (8.3%), #9 182/138 (48.6%) — all flat. Followers 7 (0 gained). Account Sun 22 (no post): 6 views / 4 reach. Stories 0.
+- Queue (10:00 = best hour every day, scores unchanged): Tue 24 Odprawa · Wed 25 Reel #14 (SCHEDULED) · Thu 26 karta · Fri 27 Reel #15 · Sat 28 kelner2 · Mon 30 Reel #16 · Tue 1 pochwała (5 DRAFTS, sent to Toko today 08:52 by Content Studio → eligible Tue 24 after 08:52).
+- Changed: nothing (drafts not 24 h old yet; slots already best hour, ≥24 h apart; Story images exist for every upcoming post; queue lasts to Tue 1). No message to Toko.
+- Tomorrow: switch the 5 drafts to scheduled unless Toko objected; Reel #11 day 1.
+
+### What works / doesn't (so far)
+- Still only the concrete-problem hook (#9) gets a real push. #11 („Nie masz czasu czytać?”) = another generic question → 23%. Wed #14 (problem+number) and Mon 30 #16 (Reel #9 re-cut pattern) are the next tests.

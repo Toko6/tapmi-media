@@ -1,6 +1,6 @@
 # DRAFT — Tue 1 Dec 2026 10:00 — carousel „Gość napisał: „Zosia była super!” Co z tym zrobisz?” (6 slides, tips + per-waiter)
 
-Status: Metricool DRAFT (id TBD), 24 h no-objection rule. Made by Content Studio Mon 23 Nov. 
+Status: Metricool DRAFT (id 438403604, uuid -4537973080066732649), 24 h no-objection rule — sent to Toko Mon 23 Nov 08:52 (visuals + captions); Daily Growth Check sets draft:false after Tue 24 Nov 08:52 unless he says no. Made by Content Studio Mon 23 Nov.
 Slides: 1 hook · 2 Powiedz jej tego samego dnia · 3 Przeczytaj na odprawie, z imienia · 4 Zapytaj: co dokładnie zrobiłaś? · 5 Patrz na liczby, nie na jedną opinię · 6 W TapMi: oceny dla każdej osoby (tap name → panel filtered, comparison from 15 ratings) + CTA.
 Story: stories/2026-12-week49/tapmi-story-pochwala.png.
 

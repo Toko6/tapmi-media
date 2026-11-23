@@ -156,3 +156,36 @@ What to change (week 16–22 Nov):
 
 ### Paid ads — no new proposal (16 Nov)
 - Nothing new to propose: still blocked on the Facebook Page + payment method; no new Reel data since 9 Nov. Proposal/update #2 (9 Nov) stands. Revisit Mon 23 with Reels #9–#13 numbers.
+
+## Week 16–22 Nov 2026 (Content Studio, Mon 23 Nov)
+
+Numbers (Metricool, lifetime as of 23 Nov ~8:50):
+| Post | Type | Views | Reach | Likes | Com. | Saves | Shares | 3-s rate | Avg watch |
+|---|---|---|---|---|---|---|---|---|---|
+| „Kto jest lepszy?” (Mon 16) | Carousel | 16 | 5 | 1 | 0 | 0 | 0 | – | – |
+| „Jak działa TapMi” (Tue 17) | Carousel | 13 | 6 | 2 | 0 | 0 | 0 | – | – |
+| Reel #12 „Przy 2★ też jest Google” (Wed 18) | Reel | 7 | 7 | 0 | 0 | 0 | 0 | 14.3% | 1.5 s / 7.2 |
+| Reel #9 „Gość dał 2★. Co dalej?” (Thu 19) | Reel | 181 | 137 | 0 | 0 | 0 | 0 | 48.9% | 5.6 s / 8.7 |
+| Reel #13 „Kto ma najlepsze oceny?” (Fri 20) | Reel | 14 | 11 | 1 | 0 | 0 | 0 | 9.1% | 3.2 s / 7.1 |
+| Reel #10 „Średnia spada?” (Sat 21) | Reel | 17 | 13 | 1 | 0 | 0 | 0 | 23.1% | 4.2 s / 9.2 |
+- 6 feed posts published (Mon–Sat, daily 10:00) — first full week on cadence. Account reach/day: 4, 5, 8, 136, 10, 12, 0 (Sun, no post). Followers 7 → 7 (gained 0, lost 0). Stories 0 in Metricool. Accounts engaged: 5 over the week.
+- Goals: posts/week 6 ✅ · Reels 35%+ past 3 s: 1 of 4 (Reel #9) · saves+shares 0 ❌ · owner conversations 0 (none visible) ❌ · demo requests 0 ❌.
+
+What worked:
+- Daily cadence keeps the account visible (no more 0-reach days except Sunday).
+- Reel #9: concrete problem moment + owner action in the dashboard → Instagram pushed it (137 reach, 48.9%, 5.6 s avg). Only pattern so far that reaches non-followers.
+
+What didn't:
+- Generic-question / guest-page openings (#10, #12, #13) stayed at 7–13 reach, 9–23% hold.
+- 137 reach on #9 converted into 0 follows, 0 likes: no reason to follow, nothing to save. Carousels: 0 saves after 4 tries with „Zapisz 🔖”.
+- Stories still 0 → Toko isn't posting the Story images; resharing is the cheapest follower-reach we have.
+
+What to change (week 23 Nov – 1 Dec):
+1. Keep one post a day on weekdays + Sat (Sun skip, weakest slot). Queue: Mon 23 #11 · Tue 24 Odprawa · Wed 25 #14 · Thu 26 karta carousel · Fri 27 Reel #15 · Sat 28 kelner post · Mon 30 Reel #16 · Tue 1 pochwała carousel.
+2. New Reels (#15, #16) open on motion within 0.3–0.8 s with a concrete moment + number/rating in the hook, and end on a follow line („Obserwuj @tapmi.app — więcej z panelu w kolejnych Reelsach”) to test converting reach into follows.
+3. Carousels shifted to practical, checklist-style tips (save bait: „karta na stoliku”, „pochwała”).
+4. Footage requested for Reel #17 („1 skarga na Kubę. I co?”, Wed 2 Dec) and Reel #18 („3× zimna zupa?”, Fri 4 Dec) — both Reel #9 pattern.
+
+### Paid ads — update #3 (23 Nov)
+- Swap creative A to Reel #9 („Gość dał 2★. Co dalej?”, 48.9% past 3 s, 137 non-follower reach, 5.6 s avg) — best organic Reel since #1. Ad copy: „Gość dał 2★. Co dalej? W panelu TapMi widzisz niską ocenę od razu, dopisujesz notatkę i jednym tapnięciem oznaczasz „Załatwione”. Prowadzisz lokal we Wrocławiu? Napisz „DEMO”, pokażemy panel na przykładowych danych.” CTA: Wyślij wiadomość. B stays Reel #8 (PL/UK/EN). Split 20 zł/day: A 14 zł + B 6 zł × 7 days ≈ 140 zł.
+- Targeting, objective (Engagement → Messages), stop rule unchanged. Still blocked on Facebook Page + payment method. Toko decides and launches; nothing spent.

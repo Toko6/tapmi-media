@@ -1,6 +1,6 @@
 # DRAFT — Sat 28 Nov 2026 10:00 — single post „Kuba i Zosia: oboje 4,3★. Ale nie tak samo.” (per-waiter angle)
 
-Status: Metricool DRAFT (id TBD), 24 h no-objection rule. Made by Content Studio Mon 23 Nov. 
+Status: Metricool DRAFT (id 438403580, uuid 5707269815181722917), 24 h no-objection rule — sent to Toko Mon 23 Nov 08:52 (visuals + captions); Daily Growth Check sets draft:false after Tue 24 Nov 08:52 unless he says no. Made by Content Studio Mon 23 Nov.
 Visual: fragment of „Oceny obsługi” table from raw/reel10/b2-staff-trend (0.3 s frame, demo data): header + Kuba row + Zosia row (Michał/Łucja rows omitted, marked with a ••• divider), label „demo, dane przykładowe · fragment tabeli”.
 Story: stories/2026-11-week48/tapmi-story-kelner2.png.
 

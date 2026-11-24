@@ -446,3 +446,13 @@
 
 ### What works / doesn't (so far)
 - Still only the concrete-problem hook (#9) gets a real push. #11 („Nie masz czasu czytać?”) = another generic question → 23%. Wed #14 (problem+number) and Mon 30 #16 (Reel #9 re-cut pattern) are the next tests.
+
+## 2026-11-24 (Tue, ~17:55, Daily Growth Check)
+- Tue 24 carousel „Odprawa z ocenami gości w 10 minut” PUBLISHED 10:00 (https://www.instagram.com/p/DgHmP4qiJUH/). Not yet in Metricool post analytics (lag) — log tomorrow.
+- Reel #11 day 1: 40 views / 35 reach / 2 likes, 3-s rate 17.1% (down from 23.3%), avg 2.6 s (9.8 s Reel). Not pushed beyond day-0 bump. Account Mon 23: 40 views / 35 reach. Followers 7 (0 gained/lost). Stories 0 in Metricool. Others flat (#9 182/138, 48.6%).
+- Changed: 5 drafts sent to Toko Mon 23 08:52, 24 h passed, no objection recorded → SCHEDULED (content identical, 10:00 slots unchanged): Thu 26 karta (id 440581150), Fri 27 Reel #15 (440581162), Sat 28 kelner2 (440581179), Mon 30 Reel #16 (440581189), Tue 1 pochwała (440581208).
+- Queue: Wed 25 Reel #14 → Tue 1 Dec, one per day except Sun 29, all 10:00 (best hour). Lasts 7 days → no new drafts needed. raw/reel17 + raw/reel18 delivered today → Content Studio Mon 30 builds Reels #17 (Wed 2) + #18 (Fri 4).
+- Story images exist for every upcoming post (sent 23 Nov). No message to Toko (nothing new to do).
+
+### What works / doesn't (so far)
+- #11 confirms generic-question hook pattern: day-0 bump from Monday slot then 17% hold, no push. Next tests: Wed #14 (problem+number), Mon 30 #16 (Reel #9 re-cut). Suggest to Content Studio: #17/#18 must open on the concrete complaint on screen in second 1 (Reel #9 pattern).

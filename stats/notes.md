@@ -456,3 +456,13 @@
 
 ### What works / doesn't (so far)
 - #11 confirms generic-question hook pattern: day-0 bump from Monday slot then 17% hold, no push. Next tests: Wed #14 (problem+number), Mon 30 #16 (Reel #9 re-cut). Suggest to Content Studio: #17/#18 must open on the concrete complaint on screen in second 1 (Reel #9 pattern).
+
+## 2026-11-25 (Wed, ~17:55, Daily Growth Check)
+- Wed 25 Reel #14 „22 oceny. Które czytać?” PUBLISHED 10:00 (https://www.instagram.com/reel/DgKK3mENb6p/). Metricool still shows 0 at ~8 h (insights lag) — log day 1 tomorrow.
+- Odprawa carousel (Tue 24) day 1: 8 views / 3 reach / 1 interaction, 0 saves/shares — follower-only reach like every carousel. Account Tue 24: 13 views / 5 reach (carousel day = near-empty day).
+- Reel #11 day 2: 45 / 36, 16.7% past 3 s, avg 3.9 s — flat. #10 21/15 (20%), #13 15/12, #9 182/138, #12 7/7 — all flat. Followers 7 (0 gained). Stories 0 in Metricool.
+- Queue unchanged (all SCHEDULED, 10:00 = best hour every day: Fri 6734, Wed 6506, Thu 6275, Mon 5528, Tue 4942, Sat 3409, Sun 2582): Thu 26 karta · Fri 27 Reel #15 · Sat 28 kelner2 · Mon 30 Reel #16 · Tue 1 pochwała. No drafts in Metricool. Queue lasts 6 days → no new drafts (Content Studio Mon 30 fills Wed 2+). Story images exist for all.
+- Changed: nothing. No message to Toko.
+
+### What works / doesn't (so far)
+- Carousels: 3–6 reach, consistently follower-only; account views on carousel days ≈ empty days. Reels are the only reach driver. If #14/#15 also stall, consider swapping a carousel slot for a Reel in Content Studio's next batch.

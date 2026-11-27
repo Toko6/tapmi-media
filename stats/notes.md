@@ -476,3 +476,13 @@
 
 ### What works / doesn't (so far)
 - Problem+number hook works for retention (#9 48.6%, #14 45.2%) but reach still small unless Instagram tests it (#9 138 vs #14 31). Still 0 follows from Reels → end-card follow line on #15/#16 is the next test. Recommend Content Studio keep every Reel on the concrete-problem opening and favour Reels over carousels (carousels stay at 3–6 reach).
+
+## 2026-11-27 (Fri, ~17:55, Daily Growth Check)
+- Fri 27 Reel #15 „11 z 22 kliknęło Google” PUBLISHED 10:00 (https://www.instagram.com/reel/DgPURWRBeaW/). Metricool at ~8 h: 2 views / 1 reach, avg 4.9 s (9.4 s Reel), 3-s rate not yet available — insights lag; judge tomorrow.
+- Reel #14 day 2: 61 views / 40 reach (+16 / +9 vs day 1), 42.5% past 3 s, avg 4.2 s — still growing slowly, the only Reel besides #9 with a day-2 increase. 0 likes/saves/shares/follows.
+- Karta carousel (Thu 26) day 1: 13 views / 2 reach / 1 interaction — follower-only again. Odprawa 11/4/1 flat. Account Thu 26 (carousel day): 20 views / 10 reach vs Wed 25 (Reel day) 45 / 33. Followers 7 (0 gained/lost). Stories 0 in Metricool.
+- Queue (all SCHEDULED, 10:00 = best hour, scores unchanged: Fri 6734, Wed 6506, Thu 6275, Mon 5528, Tue 4942, Sat 3409, Sun 2582): Sat 28 kelner2 · Mon 30 Reel #16 · Tue 1 pochwała. No drafts. Queue ends Tue 1 → Content Studio Mon 30 drafts Wed 2+ (24 h rule → live-eligible Tue 1 ~09:00). Not within 3 days → no new drafts from here. Story images exist for all 3.
+- Changed: nothing (page not stalled — #14 and #15 moving; slots best hour, ≥24 h apart). No message to Toko.
+
+### What works / doesn't (so far)
+- Reel days ≈ 2–3× account reach of carousel days, consistently. Problem+number hook (#9, #14) holds 42–49%. Watch Sat/Mon: does the #15 follow line produce any follow; does #16 (Reel #9 re-cut) get a test push.
